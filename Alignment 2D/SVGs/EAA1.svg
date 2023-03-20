@@ -1,0 +1,1620 @@
+<svg width='960px' height='815px'>
+<text x='212' y='20' style='font-size:11px;font-family:monospace;'>10</text>
+<text x='292' y='20' style='font-size:11px;font-family:monospace;'>20</text>
+<text x='372' y='20' style='font-size:11px;font-family:monospace;'>30</text>
+<text x='452' y='20' style='font-size:11px;font-family:monospace;'>40</text>
+<text x='532' y='20' style='font-size:11px;font-family:monospace;'>50</text>
+<text x='612' y='20' style='font-size:11px;font-family:monospace;'>60</text>
+<text x='692' y='20' style='font-size:11px;font-family:monospace;'>70</text>
+<text x='772' y='20' style='font-size:11px;font-family:monospace;'>80</text>
+<text x='5' y='35' fill='black'>EAA1_Native</text><text x='140' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='148' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='164' y='35' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='172' y='35' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='180' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='188' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='196' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='204' y='35' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='212' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='220' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='236' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='244' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='252' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='260' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='268' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='276' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='284' y='35' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='292' y='35' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='300' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='308' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='316' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='324' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='332' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='340' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='348' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='356' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='364' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='372' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='380' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='388' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='396' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='404' y='35' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='412' y='35' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='420' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='428' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='436' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='444' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='452' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='460' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='468' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='476' y='35' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='484' y='35' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='492' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='500' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='508' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='516' y='35' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='524' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='532' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='540' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='548' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='556' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='564' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='572' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='580' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='588' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='596' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='604' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='612' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='620' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='628' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='636' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='644' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='652' y='35' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='660' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='668' y='35' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='676' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='684' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='692' y='35' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='700' y='35' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='708' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='716' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='724' y='35' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='732' y='35' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='740' y='35' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='748' y='35' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='756' y='35' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='764' y='35' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='772' y='35' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<line  x1='140' y1='49' x2='244' y2='49' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M244 49 C 246.666666667 39, 249.333333333 39, 252.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 49 C 254.666666667 59, 257.333333333 59, 260.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 49 C 262.666666667 39, 265.333333333 39, 268.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 49 C 270.666666667 59, 273.333333333 59, 276.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M276.0 49 C 278.666666667 39, 281.333333333 39, 284.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M284.0 49 C 286.666666667 59, 289.333333333 59, 292.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M292.0 49 C 294.666666667 39, 297.333333333 39, 300.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M300.0 49 C 302.666666667 59, 305.333333333 59, 308.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M308.0 49 C 310.666666667 39, 313.333333333 39, 316.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M316.0 49 C 318.666666667 59, 321.333333333 59, 324.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 49 C 326.666666667 39, 329.333333333 39, 332.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 49 C 334.666666667 59, 337.333333333 59, 340.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 49 C 342.666666667 39, 345.333333333 39, 348.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 49 C 350.666666667 59, 353.333333333 59, 356.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 49 C 358.666666667 39, 361.333333333 39, 364.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 49 C 366.666666667 59, 369.333333333 59, 372.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M372.0 49 C 374.666666667 39, 377.333333333 39, 380.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M380.0 49 C 382.666666667 59, 385.333333333 59, 388.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M388.0 49 C 390.666666667 39, 393.333333333 39, 396.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M396.0 49 C 398.666666667 59, 401.333333333 59, 404.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 49 C 406.666666667 39, 409.333333333 39, 412.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='412.0' y1='49' x2='436.0' y2='49' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M436.0 49 C 438.666666667 59, 441.333333333 59, 444.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M444.0 49 C 446.666666667 39, 449.333333333 39, 452.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M452.0 49 C 454.666666667 59, 457.333333333 59, 460.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M460.0 49 C 462.666666667 39, 465.333333333 39, 468.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M468.0 49 C 470.666666667 59, 473.333333333 59, 476.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M476.0 49 C 478.666666667 39, 481.333333333 39, 484.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M484.0 49 C 486.666666667 59, 489.333333333 59, 492.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M492.0 49 C 494.666666667 39, 497.333333333 39, 500.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M500.0 49 C 502.666666667 59, 505.333333333 59, 508.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M508.0 49 C 510.666666667 39, 513.333333333 39, 516.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='516.0' y1='49' x2='524.0' y2='49' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M524.0 49 C 526.666666667 59, 529.333333333 59, 532.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 49 C 534.666666667 39, 537.333333333 39, 540.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 49 C 542.666666667 59, 545.333333333 59, 548.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 49 C 550.666666667 39, 553.333333333 39, 556.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 49 C 558.666666667 59, 561.333333333 59, 564.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M564.0 49 C 566.666666667 39, 569.333333333 39, 572.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M572.0 49 C 574.666666667 59, 577.333333333 59, 580.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M580.0 49 C 582.666666667 39, 585.333333333 39, 588.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M588.0 49 C 590.666666667 59, 593.333333333 59, 596.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 49 C 598.666666667 39, 601.333333333 39, 604.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M604.0 49 C 606.666666667 59, 609.333333333 59, 612.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M612.0 49 C 614.666666667 39, 617.333333333 39, 620.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M620.0 49 C 622.666666667 59, 625.333333333 59, 628.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M628.0 49 C 630.666666667 39, 633.333333333 39, 636.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M636.0 49 C 638.666666667 59, 641.333333333 59, 644.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M644.0 49 C 646.666666667 39, 649.333333333 39, 652.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M652.0 49 C 654.666666667 59, 657.333333333 59, 660.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M660.0 49 C 662.666666667 39, 665.333333333 39, 668.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M668.0 49 C 670.666666667 59, 673.333333333 59, 676.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M676.0 49 C 678.666666667 39, 681.333333333 39, 684.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M684.0 49 C 686.666666667 59, 689.333333333 59, 692.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M692.0 49 C 694.666666667 39, 697.333333333 39, 700.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M700.0 49 C 702.666666667 59, 705.333333333 59, 708.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='708.0' y1='49' x2='732.0' y2='49' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M732.0 49 C 734.666666667 39, 737.333333333 39, 740.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M740.0 49 C 742.666666667 59, 745.333333333 59, 748.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M748.0 49 C 750.666666667 39, 753.333333333 39, 756.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M756.0 49 C 758.666666667 59, 761.333333333 59, 764.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M764.0 49 C 766.666666667 39, 769.333333333 39, 772.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M772.0 49 C 774.666666667 59, 777.333333333 59, 780.0 49' style='fill:none;stroke:black;stroke-width:2'/>
+
+<text x='5' y='75' fill='black'>EAA1_QTY</text><text x='140' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='148' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='164' y='75' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='172' y='75' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='180' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='188' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='196' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='204' y='75' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='212' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='220' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='236' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='244' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='252' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='260' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='268' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='276' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='284' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='292' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='300' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='308' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='316' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='324' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='332' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='340' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='348' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='356' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='364' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='372' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='380' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='388' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='396' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='404' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='412' y='75' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='420' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='428' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='436' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='444' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='452' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='460' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='468' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='476' y='75' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='484' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='492' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='500' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='508' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='516' y='75' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='524' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='532' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='540' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='548' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='556' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='564' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='572' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='580' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='588' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='596' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='604' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='612' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='620' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='628' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='636' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='644' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='652' y='75' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='660' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='668' y='75' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='676' y='75' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='684' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='692' y='75' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='700' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='708' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='716' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='724' y='75' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='732' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='740' y='75' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='748' y='75' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='756' y='75' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='764' y='75' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='772' y='75' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='212' y='130' style='font-size:11px;font-family:monospace;'>90</text>
+<text x='292' y='130' style='font-size:11px;font-family:monospace;'>100</text>
+<text x='372' y='130' style='font-size:11px;font-family:monospace;'>110</text>
+<text x='452' y='130' style='font-size:11px;font-family:monospace;'>120</text>
+<text x='532' y='130' style='font-size:11px;font-family:monospace;'>130</text>
+<text x='612' y='130' style='font-size:11px;font-family:monospace;'>140</text>
+<text x='692' y='130' style='font-size:11px;font-family:monospace;'>150</text>
+<text x='772' y='130' style='font-size:11px;font-family:monospace;'>160</text>
+<text x='5' y='145' fill='black'>EAA1_Native</text><text x='140' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='148' y='145' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='156' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='164' y='145' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='172' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='180' y='145' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='188' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='196' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='204' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='212' y='145' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='220' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='236' y='145' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='244' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='252' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='260' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='268' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='276' y='145' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='284' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='292' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='300' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='308' y='145' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='316' y='145' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='324' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='332' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='340' y='145' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='348' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='356' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='364' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='372' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='380' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='388' y='145' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='396' y='145' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='404' y='145' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='412' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='145' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='428' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='436' y='145' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='444' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='460' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='468' y='145' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='476' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='484' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='492' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='500' y='145' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='508' y='145' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='516' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='524' y='145' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='532' y='145' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='540' y='145' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='548' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='556' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='564' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='572' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='580' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='588' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='596' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='604' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='612' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='620' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='628' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='636' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='644' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='652' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='660' y='145' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='668' y='145' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='676' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='684' y='145' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='692' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='700' y='145' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='708' y='145' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='716' y='145' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='724' y='145' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='732' y='145' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='740' y='145' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='748' y='145' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='756' y='145' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='764' y='145' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='772' y='145' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<path d='M140 159 C 142.666666667 149, 145.333333333 149, 148.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M148.0 159 C 150.666666667 169, 153.333333333 169, 156.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M156.0 159 C 158.666666667 149, 161.333333333 149, 164.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M164.0 159 C 166.666666667 169, 169.333333333 169, 172.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M172.0 159 C 174.666666667 149, 177.333333333 149, 180.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M180.0 159 C 182.666666667 169, 185.333333333 169, 188.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 159 C 190.666666667 149, 193.333333333 149, 196.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 159 C 198.666666667 169, 201.333333333 169, 204.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 159 C 206.666666667 149, 209.333333333 149, 212.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 159 C 214.666666667 169, 217.333333333 169, 220.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 159 C 222.666666667 149, 225.333333333 149, 228.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 159 C 230.666666667 169, 233.333333333 169, 236.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 159 C 238.666666667 149, 241.333333333 149, 244.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 159 C 246.666666667 169, 249.333333333 169, 252.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 159 C 254.666666667 149, 257.333333333 149, 260.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 159 C 262.666666667 169, 265.333333333 169, 268.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 159 C 270.666666667 149, 273.333333333 149, 276.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M276.0 159 C 278.666666667 169, 281.333333333 169, 284.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M284.0 159 C 286.666666667 149, 289.333333333 149, 292.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M292.0 159 C 294.666666667 169, 297.333333333 169, 300.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M300.0 159 C 302.666666667 149, 305.333333333 149, 308.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M308.0 159 C 310.666666667 169, 313.333333333 169, 316.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M316.0 159 C 318.666666667 149, 321.333333333 149, 324.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 159 C 326.666666667 169, 329.333333333 169, 332.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 159 C 334.666666667 149, 337.333333333 149, 340.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 159 C 342.666666667 169, 345.333333333 169, 348.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 159 C 350.666666667 149, 353.333333333 149, 356.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 159 C 358.666666667 169, 361.333333333 169, 364.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 159 C 366.666666667 149, 369.333333333 149, 372.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='372.0' y1='159' x2='396.0' y2='159' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M396.0 159 C 398.666666667 169, 401.333333333 169, 404.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 159 C 406.666666667 149, 409.333333333 149, 412.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M412.0 159 C 414.666666667 169, 417.333333333 169, 420.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M420.0 159 C 422.666666667 149, 425.333333333 149, 428.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M428.0 159 C 430.666666667 169, 433.333333333 169, 436.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M436.0 159 C 438.666666667 149, 441.333333333 149, 444.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M444.0 159 C 446.666666667 169, 449.333333333 169, 452.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M452.0 159 C 454.666666667 149, 457.333333333 149, 460.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M460.0 159 C 462.666666667 169, 465.333333333 169, 468.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M468.0 159 C 470.666666667 149, 473.333333333 149, 476.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M476.0 159 C 478.666666667 169, 481.333333333 169, 484.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M484.0 159 C 486.666666667 149, 489.333333333 149, 492.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M492.0 159 C 494.666666667 169, 497.333333333 169, 500.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M500.0 159 C 502.666666667 149, 505.333333333 149, 508.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M508.0 159 C 510.666666667 169, 513.333333333 169, 516.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M516.0 159 C 518.666666667 149, 521.333333333 149, 524.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M524.0 159 C 526.666666667 169, 529.333333333 169, 532.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 159 C 534.666666667 149, 537.333333333 149, 540.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 159 C 542.666666667 169, 545.333333333 169, 548.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 159 C 550.666666667 149, 553.333333333 149, 556.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 159 C 558.666666667 169, 561.333333333 169, 564.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M564.0 159 C 566.666666667 149, 569.333333333 149, 572.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M572.0 159 C 574.666666667 169, 577.333333333 169, 580.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M580.0 159 C 582.666666667 149, 585.333333333 149, 588.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M588.0 159 C 590.666666667 169, 593.333333333 169, 596.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 159 C 598.666666667 149, 601.333333333 149, 604.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M604.0 159 C 606.666666667 169, 609.333333333 169, 612.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M612.0 159 C 614.666666667 149, 617.333333333 149, 620.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M620.0 159 C 622.666666667 169, 625.333333333 169, 628.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M628.0 159 C 630.666666667 149, 633.333333333 149, 636.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M636.0 159 C 638.666666667 169, 641.333333333 169, 644.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M644.0 159 C 646.666666667 149, 649.333333333 149, 652.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M652.0 159 C 654.666666667 169, 657.333333333 169, 660.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='660.0' y1='159' x2='708.0' y2='159' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M708.0 159 C 710.666666667 149, 713.333333333 149, 716.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M716.0 159 C 718.666666667 169, 721.333333333 169, 724.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M724.0 159 C 726.666666667 149, 729.333333333 149, 732.0 159' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='732.0' y1='159' x2='780.0' y2='159' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<text x='5' y='185' fill='black'>EAA1_QTY</text><text x='140' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='148' y='185' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='156' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='164' y='185' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='172' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='180' y='185' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='188' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='196' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='204' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='212' y='185' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='220' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='236' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='244' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='252' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='260' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='268' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='276' y='185' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='284' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='292' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='300' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='308' y='185' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='316' y='185' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='324' y='185' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='332' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='340' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='348' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='356' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='364' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='372' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='380' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='388' y='185' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='396' y='185' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='404' y='185' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='412' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='185' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='428' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='436' y='185' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='444' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='460' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='468' y='185' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='476' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='484' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='492' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='500' y='185' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='508' y='185' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='516' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='524' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='532' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='540' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='548' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='556' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='564' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='572' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='580' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='588' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='596' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='604' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='612' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='620' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='628' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='636' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='644' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='652' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='660' y='185' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='668' y='185' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='676' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='684' y='185' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='692' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='700' y='185' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='708' y='185' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='716' y='185' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='724' y='185' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='732' y='185' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='740' y='185' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='748' y='185' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='756' y='185' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='764' y='185' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='772' y='185' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='212' y='240' style='font-size:11px;font-family:monospace;'>170</text>
+<text x='292' y='240' style='font-size:11px;font-family:monospace;'>180</text>
+<text x='372' y='240' style='font-size:11px;font-family:monospace;'>190</text>
+<text x='452' y='240' style='font-size:11px;font-family:monospace;'>200</text>
+<text x='532' y='240' style='font-size:11px;font-family:monospace;'>210</text>
+<text x='612' y='240' style='font-size:11px;font-family:monospace;'>220</text>
+<text x='692' y='240' style='font-size:11px;font-family:monospace;'>230</text>
+<text x='772' y='240' style='font-size:11px;font-family:monospace;'>240</text>
+<text x='5' y='255' fill='black'>EAA1_Native</text><text x='140' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='148' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='156' y='255' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='164' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='172' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='180' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='188' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='196' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='204' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='220' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='228' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='236' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='244' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='252' y='255' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='260' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='268' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='276' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='284' y='255' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='292' y='255' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='300' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='308' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='316' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='324' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='332' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='340' y='255' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='348' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='356' y='255' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='364' y='255' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='372' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='380' y='255' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='388' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='396' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='404' y='255' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='412' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='420' y='255' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='428' y='255' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='436' y='255' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='444' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='452' y='255' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='460' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='468' y='255' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='476' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='484' y='255' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='492' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='500' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='508' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='516' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='524' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='532' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='540' y='255' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='548' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='556' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='564' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='572' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='580' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='588' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='596' y='255' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='604' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='612' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='620' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='628' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='636' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='644' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='652' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='660' y='255' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='668' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='676' y='255' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='684' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='692' y='255' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='700' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='708' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='716' y='255' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='724' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='732' y='255' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='740' y='255' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='748' y='255' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='756' y='255' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='764' y='255' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='772' y='255' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<line  x1='140' y1='269' x2='180' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M180 269 C 182.666666667 259, 185.333333333 259, 188.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 269 C 190.666666667 279, 193.333333333 279, 196.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 269 C 198.666666667 259, 201.333333333 259, 204.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 269 C 206.666666667 279, 209.333333333 279, 212.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 269 C 214.666666667 259, 217.333333333 259, 220.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 269 C 222.666666667 279, 225.333333333 279, 228.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 269 C 230.666666667 259, 233.333333333 259, 236.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 269 C 238.666666667 279, 241.333333333 279, 244.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 269 C 246.666666667 259, 249.333333333 259, 252.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 269 C 254.666666667 279, 257.333333333 279, 260.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 269 C 262.666666667 259, 265.333333333 259, 268.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 269 C 270.666666667 279, 273.333333333 279, 276.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='276.0' y1='269' x2='308.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M308.0 269 C 310.666666667 259, 313.333333333 259, 316.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M316.0 269 C 318.666666667 279, 321.333333333 279, 324.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 269 C 326.666666667 259, 329.333333333 259, 332.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 269 C 334.666666667 279, 337.333333333 279, 340.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 269 C 342.666666667 259, 345.333333333 259, 348.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='348.0' y1='269' x2='356.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<rect  x='356.0' y='265' width='112' height='8' style='fill:yellow;stroke:black;stroke-width:2' />
+ <polygon points='468.0,261 476.0,269 468.0,277 ' style='fill:yellow;stroke:black;stroke-width:2' />
+<line  x1='476.0' y1='269' x2='508.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M508.0 269 C 510.666666667 279, 513.333333333 279, 516.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M516.0 269 C 518.666666667 259, 521.333333333 259, 524.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M524.0 269 C 526.666666667 279, 529.333333333 279, 532.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 269 C 534.666666667 259, 537.333333333 259, 540.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 269 C 542.666666667 279, 545.333333333 279, 548.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 269 C 550.666666667 259, 553.333333333 259, 556.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 269 C 558.666666667 279, 561.333333333 279, 564.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='564.0' y1='269' x2='588.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M588.0 269 C 590.666666667 259, 593.333333333 259, 596.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 269 C 598.666666667 279, 601.333333333 279, 604.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M604.0 269 C 606.666666667 259, 609.333333333 259, 612.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M612.0 269 C 614.666666667 279, 617.333333333 279, 620.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M620.0 269 C 622.666666667 259, 625.333333333 259, 628.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M628.0 269 C 630.666666667 279, 633.333333333 279, 636.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M636.0 269 C 638.666666667 259, 641.333333333 259, 644.0 269' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='644.0' y1='269' x2='652.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<rect  x='652.0' y='265' width='112' height='8' style='fill:yellow;stroke:black;stroke-width:2' />
+ <polygon points='764.0,261 772.0,269 764.0,277 ' style='fill:yellow;stroke:black;stroke-width:2' />
+<line  x1='772.0' y1='269' x2='780.0' y2='269' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<text x='5' y='295' fill='black'>EAA1_QTY</text><text x='140' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='148' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='156' y='295' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='164' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='172' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='180' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='188' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='196' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='204' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='220' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='228' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='236' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='244' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='252' y='295' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='260' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='268' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='276' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='284' y='295' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='292' y='295' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='300' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='308' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='316' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='324' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='332' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='340' y='295' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='348' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='356' y='295' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='364' y='295' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='372' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='380' y='295' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='388' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='396' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='404' y='295' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='412' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='420' y='295' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='428' y='295' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='436' y='295' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='444' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='452' y='295' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='460' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='468' y='295' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='476' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='484' y='295' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='492' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='500' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='508' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='516' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='524' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='532' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='540' y='295' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='548' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='556' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='564' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='572' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='580' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='588' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='596' y='295' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='604' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='612' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='620' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='628' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='636' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='644' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='652' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='660' y='295' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='668' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='676' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='684' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='692' y='295' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='700' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='708' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='716' y='295' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='724' y='295' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='732' y='295' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='740' y='295' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='748' y='295' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='756' y='295' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='764' y='295' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='772' y='295' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='212' y='350' style='font-size:11px;font-family:monospace;'>250</text>
+<text x='292' y='350' style='font-size:11px;font-family:monospace;'>260</text>
+<text x='372' y='350' style='font-size:11px;font-family:monospace;'>270</text>
+<text x='452' y='350' style='font-size:11px;font-family:monospace;'>280</text>
+<text x='532' y='350' style='font-size:11px;font-family:monospace;'>290</text>
+<text x='612' y='350' style='font-size:11px;font-family:monospace;'>300</text>
+<text x='692' y='350' style='font-size:11px;font-family:monospace;'>310</text>
+<text x='772' y='350' style='font-size:11px;font-family:monospace;'>320</text>
+<text x='5' y='365' fill='black'>EAA1_Native</text><text x='140' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='148' y='365' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='156' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='164' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='172' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='180' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='188' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='196' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='204' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='212' y='365' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='220' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='365' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='236' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='244' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='252' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='260' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='268' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='276' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='284' y='365' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='292' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='300' y='365' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='308' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='316' y='365' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='324' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='332' y='365' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='340' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='348' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='356' y='365' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='364' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='372' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='380' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='388' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='396' y='365' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='404' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='412' y='365' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='420' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='428' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='436' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='444' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='365' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='460' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='468' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='476' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='484' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='492' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='500' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='508' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='516' y='365' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='524' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='532' y='365' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='540' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='548' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='556' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='564' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='572' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='580' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='588' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='596' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='604' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='612' y='365' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='620' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='628' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='636' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='644' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='652' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='660' y='365' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='668' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='676' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='684' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='692' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='700' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='708' y='365' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='716' y='365' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='724' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='732' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='740' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='748' y='365' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='756' y='365' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='764' y='365' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='772' y='365' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<line  x1='140' y1='379' x2='156' y2='379' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M156 379 C 158.666666667 369, 161.333333333 369, 164.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M164.0 379 C 166.666666667 389, 169.333333333 389, 172.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M172.0 379 C 174.666666667 369, 177.333333333 369, 180.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M180.0 379 C 182.666666667 389, 185.333333333 389, 188.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 379 C 190.666666667 369, 193.333333333 369, 196.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 379 C 198.666666667 389, 201.333333333 389, 204.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 379 C 206.666666667 369, 209.333333333 369, 212.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 379 C 214.666666667 389, 217.333333333 389, 220.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 379 C 222.666666667 369, 225.333333333 369, 228.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 379 C 230.666666667 389, 233.333333333 389, 236.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 379 C 238.666666667 369, 241.333333333 369, 244.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 379 C 246.666666667 389, 249.333333333 389, 252.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 379 C 254.666666667 369, 257.333333333 369, 260.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 379 C 262.666666667 389, 265.333333333 389, 268.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 379 C 270.666666667 369, 273.333333333 369, 276.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M276.0 379 C 278.666666667 389, 281.333333333 389, 284.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M284.0 379 C 286.666666667 369, 289.333333333 369, 292.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M292.0 379 C 294.666666667 389, 297.333333333 389, 300.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M300.0 379 C 302.666666667 369, 305.333333333 369, 308.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M308.0 379 C 310.666666667 389, 313.333333333 389, 316.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M316.0 379 C 318.666666667 369, 321.333333333 369, 324.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 379 C 326.666666667 389, 329.333333333 389, 332.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 379 C 334.666666667 369, 337.333333333 369, 340.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 379 C 342.666666667 389, 345.333333333 389, 348.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 379 C 350.666666667 369, 353.333333333 369, 356.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 379 C 358.666666667 389, 361.333333333 389, 364.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 379 C 366.666666667 369, 369.333333333 369, 372.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M372.0 379 C 374.666666667 389, 377.333333333 389, 380.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M380.0 379 C 382.666666667 369, 385.333333333 369, 388.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M388.0 379 C 390.666666667 389, 393.333333333 389, 396.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M396.0 379 C 398.666666667 369, 401.333333333 369, 404.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 379 C 406.666666667 389, 409.333333333 389, 412.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M412.0 379 C 414.666666667 369, 417.333333333 369, 420.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M420.0 379 C 422.666666667 389, 425.333333333 389, 428.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M428.0 379 C 430.666666667 369, 433.333333333 369, 436.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M436.0 379 C 438.666666667 389, 441.333333333 389, 444.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M444.0 379 C 446.666666667 369, 449.333333333 369, 452.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M452.0 379 C 454.666666667 389, 457.333333333 389, 460.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M460.0 379 C 462.666666667 369, 465.333333333 369, 468.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M468.0 379 C 470.666666667 389, 473.333333333 389, 476.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M476.0 379 C 478.666666667 369, 481.333333333 369, 484.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M484.0 379 C 486.666666667 389, 489.333333333 389, 492.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M492.0 379 C 494.666666667 369, 497.333333333 369, 500.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M500.0 379 C 502.666666667 389, 505.333333333 389, 508.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M508.0 379 C 510.666666667 369, 513.333333333 369, 516.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M516.0 379 C 518.666666667 389, 521.333333333 389, 524.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M524.0 379 C 526.666666667 369, 529.333333333 369, 532.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 379 C 534.666666667 389, 537.333333333 389, 540.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 379 C 542.666666667 369, 545.333333333 369, 548.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 379 C 550.666666667 389, 553.333333333 389, 556.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 379 C 558.666666667 369, 561.333333333 369, 564.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M564.0 379 C 566.666666667 389, 569.333333333 389, 572.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M572.0 379 C 574.666666667 369, 577.333333333 369, 580.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M580.0 379 C 582.666666667 389, 585.333333333 389, 588.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M588.0 379 C 590.666666667 369, 593.333333333 369, 596.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 379 C 598.666666667 389, 601.333333333 389, 604.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M604.0 379 C 606.666666667 369, 609.333333333 369, 612.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M612.0 379 C 614.666666667 389, 617.333333333 389, 620.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M620.0 379 C 622.666666667 369, 625.333333333 369, 628.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M628.0 379 C 630.666666667 389, 633.333333333 389, 636.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='636.0' y1='379' x2='668.0' y2='379' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M668.0 379 C 670.666666667 369, 673.333333333 369, 676.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M676.0 379 C 678.666666667 389, 681.333333333 389, 684.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M684.0 379 C 686.666666667 369, 689.333333333 369, 692.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='692.0' y1='379' x2='708.0' y2='379' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M708.0 379 C 710.666666667 389, 713.333333333 389, 716.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M716.0 379 C 718.666666667 369, 721.333333333 369, 724.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M724.0 379 C 726.666666667 389, 729.333333333 389, 732.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M732.0 379 C 734.666666667 369, 737.333333333 369, 740.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M740.0 379 C 742.666666667 389, 745.333333333 389, 748.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M748.0 379 C 750.666666667 369, 753.333333333 369, 756.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M756.0 379 C 758.666666667 389, 761.333333333 389, 764.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M764.0 379 C 766.666666667 369, 769.333333333 369, 772.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M772.0 379 C 774.666666667 389, 777.333333333 389, 780.0 379' style='fill:none;stroke:black;stroke-width:2'/>
+
+<text x='5' y='405' fill='black'>EAA1_QTY</text><text x='140' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='148' y='405' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='156' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='164' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='172' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='180' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='188' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='196' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='204' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='212' y='405' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='220' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='228' y='405' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='236' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='244' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='252' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='260' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='268' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='276' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='284' y='405' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='292' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='300' y='405' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='308' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='316' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='324' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='332' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='340' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='348' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='356' y='405' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='364' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='372' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='380' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='388' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='396' y='405' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='404' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='412' y='405' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='420' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='428' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='436' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='444' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='405' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='460' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='468' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='476' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='484' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='492' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='500' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='508' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='516' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='524' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='532' y='405' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='540' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='548' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='556' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='564' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='572' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='580' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='588' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='596' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='604' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='612' y='405' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='620' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='628' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='636' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='644' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='652' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='660' y='405' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='668' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='676' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='684' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='692' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='700' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='708' y='405' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='716' y='405' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='724' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='732' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='740' y='405' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='748' y='405' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='756' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='764' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='772' y='405' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='212' y='460' style='font-size:11px;font-family:monospace;'>330</text>
+<text x='292' y='460' style='font-size:11px;font-family:monospace;'>340</text>
+<text x='372' y='460' style='font-size:11px;font-family:monospace;'>350</text>
+<text x='452' y='460' style='font-size:11px;font-family:monospace;'>360</text>
+<text x='532' y='460' style='font-size:11px;font-family:monospace;'>370</text>
+<text x='612' y='460' style='font-size:11px;font-family:monospace;'>380</text>
+<text x='692' y='460' style='font-size:11px;font-family:monospace;'>390</text>
+<text x='772' y='460' style='font-size:11px;font-family:monospace;'>400</text>
+<text x='5' y='475' fill='black'>EAA1_Native</text><text x='140' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='148' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='156' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='164' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='172' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='180' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='188' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='196' y='475' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='204' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='220' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='228' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='236' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='244' y='475' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='252' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='260' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='268' y='475' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='276' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='284' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='292' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='300' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='308' y='475' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='316' y='475' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='324' y='475' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='332' y='475' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='340' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='348' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='356' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='364' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='372' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='380' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='388' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='396' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='404' y='475' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='412' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='428' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='436' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='444' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='452' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='460' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='468' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='476' y='475' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='484' y='475' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='492' y='475' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='500' y='475' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='508' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='516' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='524' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='532' y='475' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='540' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='548' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='556' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='564' y='475' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='572' y='475' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='580' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='588' y='475' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='596' y='475' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='604' y='475' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='612' y='475' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='620' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='628' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='636' y='475' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='644' y='475' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='652' y='475' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='660' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='668' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='676' y='475' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='684' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='692' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='700' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='708' y='475' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='716' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='724' y='475' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='732' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='740' y='475' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='748' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='756' y='475' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='764' y='475' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='772' y='475' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<path d='M140 489 C 142.666666667 479, 145.333333333 479, 148.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M148.0 489 C 150.666666667 499, 153.333333333 499, 156.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M156.0 489 C 158.666666667 479, 161.333333333 479, 164.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M164.0 489 C 166.666666667 499, 169.333333333 499, 172.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M172.0 489 C 174.666666667 479, 177.333333333 479, 180.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M180.0 489 C 182.666666667 499, 185.333333333 499, 188.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 489 C 190.666666667 479, 193.333333333 479, 196.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 489 C 198.666666667 499, 201.333333333 499, 204.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 489 C 206.666666667 479, 209.333333333 479, 212.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 489 C 214.666666667 499, 217.333333333 499, 220.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 489 C 222.666666667 479, 225.333333333 479, 228.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 489 C 230.666666667 499, 233.333333333 499, 236.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 489 C 238.666666667 479, 241.333333333 479, 244.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 489 C 246.666666667 499, 249.333333333 499, 252.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 489 C 254.666666667 479, 257.333333333 479, 260.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 489 C 262.666666667 499, 265.333333333 499, 268.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 489 C 270.666666667 479, 273.333333333 479, 276.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M276.0 489 C 278.666666667 499, 281.333333333 499, 284.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M284.0 489 C 286.666666667 479, 289.333333333 479, 292.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M292.0 489 C 294.666666667 499, 297.333333333 499, 300.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M300.0 489 C 302.666666667 479, 305.333333333 479, 308.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='308.0' y1='489' x2='332.0' y2='489' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M332.0 489 C 334.666666667 499, 337.333333333 499, 340.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 489 C 342.666666667 479, 345.333333333 479, 348.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 489 C 350.666666667 499, 353.333333333 499, 356.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 489 C 358.666666667 479, 361.333333333 479, 364.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 489 C 366.666666667 499, 369.333333333 499, 372.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M372.0 489 C 374.666666667 479, 377.333333333 479, 380.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M380.0 489 C 382.666666667 499, 385.333333333 499, 388.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M388.0 489 C 390.666666667 479, 393.333333333 479, 396.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M396.0 489 C 398.666666667 499, 401.333333333 499, 404.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 489 C 406.666666667 479, 409.333333333 479, 412.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M412.0 489 C 414.666666667 499, 417.333333333 499, 420.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M420.0 489 C 422.666666667 479, 425.333333333 479, 428.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M428.0 489 C 430.666666667 499, 433.333333333 499, 436.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M436.0 489 C 438.666666667 479, 441.333333333 479, 444.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M444.0 489 C 446.666666667 499, 449.333333333 499, 452.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M452.0 489 C 454.666666667 479, 457.333333333 479, 460.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M460.0 489 C 462.666666667 499, 465.333333333 499, 468.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M468.0 489 C 470.666666667 479, 473.333333333 479, 476.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='476.0' y1='489' x2='492.0' y2='489' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M492.0 489 C 494.666666667 499, 497.333333333 499, 500.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M500.0 489 C 502.666666667 479, 505.333333333 479, 508.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M508.0 489 C 510.666666667 499, 513.333333333 499, 516.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M516.0 489 C 518.666666667 479, 521.333333333 479, 524.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M524.0 489 C 526.666666667 499, 529.333333333 499, 532.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 489 C 534.666666667 479, 537.333333333 479, 540.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 489 C 542.666666667 499, 545.333333333 499, 548.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 489 C 550.666666667 479, 553.333333333 479, 556.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 489 C 558.666666667 499, 561.333333333 499, 564.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M564.0 489 C 566.666666667 479, 569.333333333 479, 572.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M572.0 489 C 574.666666667 499, 577.333333333 499, 580.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M580.0 489 C 582.666666667 479, 585.333333333 479, 588.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M588.0 489 C 590.666666667 499, 593.333333333 499, 596.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 489 C 598.666666667 479, 601.333333333 479, 604.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M604.0 489 C 606.666666667 499, 609.333333333 499, 612.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='612.0' y1='489' x2='644.0' y2='489' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M644.0 489 C 646.666666667 479, 649.333333333 479, 652.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M652.0 489 C 654.666666667 499, 657.333333333 499, 660.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M660.0 489 C 662.666666667 479, 665.333333333 479, 668.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M668.0 489 C 670.666666667 499, 673.333333333 499, 676.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M676.0 489 C 678.666666667 479, 681.333333333 479, 684.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M684.0 489 C 686.666666667 499, 689.333333333 499, 692.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M692.0 489 C 694.666666667 479, 697.333333333 479, 700.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M700.0 489 C 702.666666667 499, 705.333333333 499, 708.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M708.0 489 C 710.666666667 479, 713.333333333 479, 716.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M716.0 489 C 718.666666667 499, 721.333333333 499, 724.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M724.0 489 C 726.666666667 479, 729.333333333 479, 732.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M732.0 489 C 734.666666667 499, 737.333333333 499, 740.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M740.0 489 C 742.666666667 479, 745.333333333 479, 748.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M748.0 489 C 750.666666667 499, 753.333333333 499, 756.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='756.0' y1='489' x2='772.0' y2='489' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M772.0 489 C 774.666666667 479, 777.333333333 479, 780.0 489' style='fill:none;stroke:black;stroke-width:2'/>
+
+<text x='5' y='515' fill='black'>EAA1_QTY</text><text x='140' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='148' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='164' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='172' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='180' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='188' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='196' y='515' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='204' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='220' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='228' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='236' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='244' y='515' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='252' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='260' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='268' y='515' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='276' y='515' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='284' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='292' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='300' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='308' y='515' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='316' y='515' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='324' y='515' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='332' y='515' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='340' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='348' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='356' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='364' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='372' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='380' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='388' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='396' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='404' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='412' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='428' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='436' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='444' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='452' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='460' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='468' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='476' y='515' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='484' y='515' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='492' y='515' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='500' y='515' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='508' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='516' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='524' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='532' y='515' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='540' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='548' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='556' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='564' y='515' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='572' y='515' style='font-size:11px;font-family:monospace;fill:DarkSalmon'>C</text>
+<text x='580' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='588' y='515' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='596' y='515' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='604' y='515' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='612' y='515' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='620' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='628' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='636' y='515' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='644' y='515' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='652' y='515' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='660' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='668' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='676' y='515' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='684' y='515' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='692' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='700' y='515' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='708' y='515' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='716' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='724' y='515' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='732' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='740' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='748' y='515' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='756' y='515' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='764' y='515' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='772' y='515' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='212' y='570' style='font-size:11px;font-family:monospace;'>410</text>
+<text x='292' y='570' style='font-size:11px;font-family:monospace;'>420</text>
+<text x='372' y='570' style='font-size:11px;font-family:monospace;'>430</text>
+<text x='452' y='570' style='font-size:11px;font-family:monospace;'>440</text>
+<text x='532' y='570' style='font-size:11px;font-family:monospace;'>450</text>
+<text x='612' y='570' style='font-size:11px;font-family:monospace;'>460</text>
+<text x='692' y='570' style='font-size:11px;font-family:monospace;'>470</text>
+<text x='772' y='570' style='font-size:11px;font-family:monospace;'>480</text>
+<text x='5' y='585' fill='black'>EAA1_Native</text><text x='140' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='148' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='164' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='172' y='585' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='180' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='188' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='196' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='204' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='220' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='228' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='236' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='244' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='252' y='585' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='260' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='268' y='585' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='276' y='585' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='284' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='292' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='300' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='308' y='585' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='316' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='324' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='332' y='585' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='340' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='348' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='356' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='364' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='372' y='585' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='380' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='388' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='396' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='404' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='412' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='428' y='585' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='436' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='444' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='452' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='460' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='468' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='476' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='484' y='585' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='492' y='585' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='500' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='508' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='516' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='524' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='532' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='540' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='548' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='556' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='564' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='572' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='580' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='588' y='585' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='596' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='604' y='585' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='612' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='620' y='585' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='628' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='636' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='644' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='652' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='660' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='668' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='676' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='684' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='692' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='700' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='708' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='716' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='724' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='732' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='740' y='585' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='748' y='585' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='756' y='585' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='764' y='585' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='772' y='585' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<path d='M140 599 C 142.666666667 589, 145.333333333 589, 148.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M148.0 599 C 150.666666667 609, 153.333333333 609, 156.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M156.0 599 C 158.666666667 589, 161.333333333 589, 164.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M164.0 599 C 166.666666667 609, 169.333333333 609, 172.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M172.0 599 C 174.666666667 589, 177.333333333 589, 180.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M180.0 599 C 182.666666667 609, 185.333333333 609, 188.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 599 C 190.666666667 589, 193.333333333 589, 196.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 599 C 198.666666667 609, 201.333333333 609, 204.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 599 C 206.666666667 589, 209.333333333 589, 212.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 599 C 214.666666667 609, 217.333333333 609, 220.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 599 C 222.666666667 589, 225.333333333 589, 228.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 599 C 230.666666667 609, 233.333333333 609, 236.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 599 C 238.666666667 589, 241.333333333 589, 244.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 599 C 246.666666667 609, 249.333333333 609, 252.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 599 C 254.666666667 589, 257.333333333 589, 260.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 599 C 262.666666667 609, 265.333333333 609, 268.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='268.0' y1='599' x2='316.0' y2='599' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M316.0 599 C 318.666666667 589, 321.333333333 589, 324.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 599 C 326.666666667 609, 329.333333333 609, 332.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 599 C 334.666666667 589, 337.333333333 589, 340.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 599 C 342.666666667 609, 345.333333333 609, 348.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 599 C 350.666666667 589, 353.333333333 589, 356.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 599 C 358.666666667 609, 361.333333333 609, 364.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 599 C 366.666666667 589, 369.333333333 589, 372.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M372.0 599 C 374.666666667 609, 377.333333333 609, 380.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M380.0 599 C 382.666666667 589, 385.333333333 589, 388.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M388.0 599 C 390.666666667 609, 393.333333333 609, 396.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M396.0 599 C 398.666666667 589, 401.333333333 589, 404.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 599 C 406.666666667 609, 409.333333333 609, 412.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M412.0 599 C 414.666666667 589, 417.333333333 589, 420.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M420.0 599 C 422.666666667 609, 425.333333333 609, 428.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M428.0 599 C 430.666666667 589, 433.333333333 589, 436.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='436.0' y1='599' x2='500.0' y2='599' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M500.0 599 C 502.666666667 609, 505.333333333 609, 508.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M508.0 599 C 510.666666667 589, 513.333333333 589, 516.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M516.0 599 C 518.666666667 609, 521.333333333 609, 524.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M524.0 599 C 526.666666667 589, 529.333333333 589, 532.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M532.0 599 C 534.666666667 609, 537.333333333 609, 540.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M540.0 599 C 542.666666667 589, 545.333333333 589, 548.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M548.0 599 C 550.666666667 609, 553.333333333 609, 556.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M556.0 599 C 558.666666667 589, 561.333333333 589, 564.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M564.0 599 C 566.666666667 609, 569.333333333 609, 572.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M572.0 599 C 574.666666667 589, 577.333333333 589, 580.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M580.0 599 C 582.666666667 609, 585.333333333 609, 588.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M588.0 599 C 590.666666667 589, 593.333333333 589, 596.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M596.0 599 C 598.666666667 609, 601.333333333 609, 604.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='604.0' y1='599' x2='628.0' y2='599' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<path d='M628.0 599 C 630.666666667 589, 633.333333333 589, 636.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M636.0 599 C 638.666666667 609, 641.333333333 609, 644.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M644.0 599 C 646.666666667 589, 649.333333333 589, 652.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M652.0 599 C 654.666666667 609, 657.333333333 609, 660.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M660.0 599 C 662.666666667 589, 665.333333333 589, 668.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M668.0 599 C 670.666666667 609, 673.333333333 609, 676.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M676.0 599 C 678.666666667 589, 681.333333333 589, 684.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M684.0 599 C 686.666666667 609, 689.333333333 609, 692.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M692.0 599 C 694.666666667 589, 697.333333333 589, 700.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M700.0 599 C 702.666666667 609, 705.333333333 609, 708.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M708.0 599 C 710.666666667 589, 713.333333333 589, 716.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M716.0 599 C 718.666666667 609, 721.333333333 609, 724.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M724.0 599 C 726.666666667 589, 729.333333333 589, 732.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M732.0 599 C 734.666666667 609, 737.333333333 609, 740.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M740.0 599 C 742.666666667 589, 745.333333333 589, 748.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M748.0 599 C 750.666666667 609, 753.333333333 609, 756.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M756.0 599 C 758.666666667 589, 761.333333333 589, 764.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M764.0 599 C 766.666666667 609, 769.333333333 609, 772.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M772.0 599 C 774.666666667 589, 777.333333333 589, 780.0 599' style='fill:none;stroke:black;stroke-width:2'/>
+
+<text x='5' y='625' fill='black'>EAA1_QTY</text><text x='140' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='148' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='164' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='172' y='625' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='180' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='188' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='196' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='204' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='212' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='220' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='228' y='625' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='236' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='244' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='252' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='260' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='268' y='625' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='276' y='625' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='284' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='292' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='300' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='308' y='625' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='316' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>F</text>
+<text x='324' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='332' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='340' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='348' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='356' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='364' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='372' y='625' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='380' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='388' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='396' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='404' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='412' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='420' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='428' y='625' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='436' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='444' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='452' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='460' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='468' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='476' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='484' y='625' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='492' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='500' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='508' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='516' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='524' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='532' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='540' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='548' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='556' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='564' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='572' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='580' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='588' y='625' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='596' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='604' y='625' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='612' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='620' y='625' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='628' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='636' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='644' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='652' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='660' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='668' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='676' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='684' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='692' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='700' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='708' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='716' y='625' style='font-size:11px;font-family:monospace;fill:DarkBlue'>W</text>
+<text x='724' y='625' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='732' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='740' y='625' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='748' y='625' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='756' y='625' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='764' y='625' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='772' y='625' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='212' y='680' style='font-size:11px;font-family:monospace;'>490</text>
+<text x='292' y='680' style='font-size:11px;font-family:monospace;'>500</text>
+<text x='372' y='680' style='font-size:11px;font-family:monospace;'>510</text>
+<text x='452' y='680' style='font-size:11px;font-family:monospace;'>520</text>
+<text x='532' y='680' style='font-size:11px;font-family:monospace;'>530</text>
+<text x='612' y='680' style='font-size:11px;font-family:monospace;'>540</text>
+<text x='5' y='695' fill='black'>EAA1_Native</text><text x='140' y='695' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='148' y='695' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='695' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='164' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='172' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='180' y='695' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='188' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='196' y='695' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='204' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='212' y='695' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='220' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='228' y='695' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='236' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='244' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='252' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='260' y='695' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='268' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='276' y='695' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='284' y='695' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='292' y='695' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='300' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='308' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='316' y='695' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='324' y='695' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='332' y='695' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='340' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='348' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='356' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='364' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='372' y='695' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='380' y='695' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='388' y='695' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='396' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='404' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='412' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='420' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='428' y='695' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='436' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='444' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='695' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='460' y='695' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='468' y='695' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='476' y='695' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='484' y='695' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='492' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='500' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='508' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='516' y='695' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='524' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='532' y='695' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='540' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='548' y='695' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='556' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='564' y='695' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='572' y='695' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='580' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='588' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='596' y='695' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='604' y='695' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='612' y='695' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='620' y='695' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='628' y='695' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='636' y='695' style='font-size:11px;font-family:monospace;fill:#000000'></text>
+<path d='M140 709 C 142.666666667 699, 145.333333333 699, 148.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M148.0 709 C 150.666666667 719, 153.333333333 719, 156.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M156.0 709 C 158.666666667 699, 161.333333333 699, 164.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M164.0 709 C 166.666666667 719, 169.333333333 719, 172.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M172.0 709 C 174.666666667 699, 177.333333333 699, 180.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M180.0 709 C 182.666666667 719, 185.333333333 719, 188.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M188.0 709 C 190.666666667 699, 193.333333333 699, 196.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M196.0 709 C 198.666666667 719, 201.333333333 719, 204.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M204.0 709 C 206.666666667 699, 209.333333333 699, 212.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M212.0 709 C 214.666666667 719, 217.333333333 719, 220.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M220.0 709 C 222.666666667 699, 225.333333333 699, 228.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M228.0 709 C 230.666666667 719, 233.333333333 719, 236.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M236.0 709 C 238.666666667 699, 241.333333333 699, 244.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M244.0 709 C 246.666666667 719, 249.333333333 719, 252.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M252.0 709 C 254.666666667 699, 257.333333333 699, 260.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M260.0 709 C 262.666666667 719, 265.333333333 719, 268.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M268.0 709 C 270.666666667 699, 273.333333333 699, 276.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M276.0 709 C 278.666666667 719, 281.333333333 719, 284.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M284.0 709 C 286.666666667 699, 289.333333333 699, 292.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M292.0 709 C 294.666666667 719, 297.333333333 719, 300.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M300.0 709 C 302.666666667 699, 305.333333333 699, 308.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M308.0 709 C 310.666666667 719, 313.333333333 719, 316.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M316.0 709 C 318.666666667 699, 321.333333333 699, 324.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M324.0 709 C 326.666666667 719, 329.333333333 719, 332.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M332.0 709 C 334.666666667 699, 337.333333333 699, 340.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M340.0 709 C 342.666666667 719, 345.333333333 719, 348.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M348.0 709 C 350.666666667 699, 353.333333333 699, 356.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M356.0 709 C 358.666666667 719, 361.333333333 719, 364.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M364.0 709 C 366.666666667 699, 369.333333333 699, 372.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M372.0 709 C 374.666666667 719, 377.333333333 719, 380.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M380.0 709 C 382.666666667 699, 385.333333333 699, 388.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M388.0 709 C 390.666666667 719, 393.333333333 719, 396.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M396.0 709 C 398.666666667 699, 401.333333333 699, 404.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M404.0 709 C 406.666666667 719, 409.333333333 719, 412.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M412.0 709 C 414.666666667 699, 417.333333333 699, 420.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M420.0 709 C 422.666666667 719, 425.333333333 719, 428.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M428.0 709 C 430.666666667 699, 433.333333333 699, 436.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M436.0 709 C 438.666666667 719, 441.333333333 719, 444.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+<path d='M444.0 709 C 446.666666667 699, 449.333333333 699, 452.0 709' style='fill:none;stroke:black;stroke-width:2'/>
+
+<line  x1='452.0' y1='709' x2='636.0' y2='709' style='stroke:rgb(255,0,0);stroke-width:2' />
+
+<text x='5' y='735' fill='black'>EAA1_QTY</text><text x='140' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='148' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='156' y='735' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='164' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='172' y='735' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='180' y='735' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='188' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='196' y='735' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='204' y='735' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='212' y='735' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='220' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='228' y='735' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='236' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='244' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='252' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='260' y='735' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='268' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='276' y='735' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='284' y='735' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='292' y='735' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>H</text>
+<text x='300' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='308' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='316' y='735' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='324' y='735' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='332' y='735' style='font-size:11px;font-family:monospace;fill:red'>R</text>
+<text x='340' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='348' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='356' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='364' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='372' y='735' style='font-size:11px;font-family:monospace;fill:Orange'>G</text>
+<text x='380' y='735' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='388' y='735' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='396' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>V</text>
+<text x='404' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='412' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='420' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='428' y='735' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='436' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='444' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='452' y='735' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='460' y='735' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='468' y='735' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='476' y='735' style='font-size:11px;font-family:monospace;fill:LightSeaGreen '>Y</text>
+<text x='484' y='735' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='492' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>L</text>
+<text x='500' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='508' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>A</text>
+<text x='516' y='735' style='font-size:11px;font-family:monospace;fill:green'>Q</text>
+<text x='524' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='532' y='735' style='font-size:11px;font-family:monospace;fill:green'>N</text>
+<text x='540' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='548' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='556' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='564' y='735' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='572' y='735' style='font-size:11px;font-family:monospace;fill:DarkGoldenRod'>P</text>
+<text x='580' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>I</text>
+<text x='588' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>D</text>
+<text x='596' y='735' style='font-size:11px;font-family:monospace;fill:green'>S</text>
+<text x='604' y='735' style='font-size:11px;font-family:monospace;fill:DarkOrchid'>E</text>
+<text x='612' y='735' style='font-size:11px;font-family:monospace;fill:green'>T</text>
+<text x='620' y='735' style='font-size:11px;font-family:monospace;fill:red'>K</text>
+<text x='628' y='735' style='font-size:11px;font-family:monospace;fill:DarkBlue'>M</text>
+<text x='636' y='735' style='font-size:11px;font-family:monospace;fill:#000000'></text>
+
+</svg>
