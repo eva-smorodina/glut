@@ -1,0 +1,88 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(P43003:2:T/G)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>G
+(P43003:2:T/L)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>L
+(P43003:2:T/M)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>M
+(P43003:2:T/F)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>F
+(P43003:2:T/W)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>W
+(P43003:2:T/Q)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Q
+(P43003:2:T/K)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>K
+(P43003:2:T/E)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>E
+(P43003:2:T/V)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>V
+(P43003:2:T/C)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>C
+(P43003:2:T/Y)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Y
+(P43003:2:T/H)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>H
+(P43003:2:T/R)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>R
+(P43003:2:T/D)           ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>D
+(P43003:62:T/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>G
+(P43003:62:T/L)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>L
+(P43003:62:T/M)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>M
+(P43003:62:T/F)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>F
+(P43003:62:T/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>W
+(P43003:62:T/Q)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Q
+(P43003:62:T/E)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>E
+(P43003:62:T/V)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>V
+(P43003:62:T/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>C
+(P43003:62:T/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Y
+(P43003:62:T/H)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>H
+(P43003:62:T/N)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>N
+(P43003:62:T/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>D
+(P43003:428:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>G
+(P43003:428:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>L
+(P43003:428:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>M
+(P43003:428:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>F
+(P43003:428:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>W
+(P43003:428:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Q
+(P43003:428:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>E
+(P43003:428:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>V
+(P43003:428:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>C
+(P43003:428:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Y
+(P43003:428:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>H
+(P43003:428:T/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>N
+(P43003:428:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>D
+(P43003:225:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>G
+(P43003:225:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>L
+(P43003:225:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>M
+(P43003:225:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>F
+(P43003:225:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>W
+(P43003:225:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Q
+(P43003:225:T/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>K
+(P43003:225:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>E
+(P43003:225:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>V
+(P43003:225:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>C
+(P43003:225:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Y
+(P43003:225:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>H
+(P43003:225:T/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>R
+(P43003:225:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>D
+Total errors/warnings: 54
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors
