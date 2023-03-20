@@ -1,0 +1,25 @@
+notebook=https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/AlphaFold2_advanced_beta.ipynb
+sequence=LERSRLATTSFCGSYAGAVIAMPLAGILVQYTGWSSVFYVYGSFGMVWYMFWLLVSYESPAKHPTITDEERRYIEESIGESANLLGAMEKFKTPWRKFFTSMPVYAIIVANFCRSWTFYLLLISQPAYFEEVFGFEISKVGMLSAVPHLVMTIIVPIGGQIADFLRSKQILSTTTVRKIMNCGGFGMEATLLLVVGYSHTRGVAISFLVLAVGFSGFAISGFNVNHLDIAPRYASILMGISNGVGTLSGMVCPIIVGAMTKNKSREEWQYVFLIAALVHYGGVIFYAIFASGEK
+msa_method=mmseqs2
+homooligomer=1
+pair_mode=unpaired
+cov=0
+qid=0
+max_msa=512:1024
+subsample_msa=True
+num_relax=None
+use_turbo=True
+use_ptm=True
+rank_by=pLDDT
+num_models=5
+num_samples=1
+num_ensemble=1
+max_recycles=3
+is_training=False
+use_templates=False
+-------------------------------------------------
+rank_1_model_3_ptm_seed_0 pLDDT:86.78 pTMscore:0.7906
+rank_2_model_4_ptm_seed_0 pLDDT:84.25 pTMscore:0.7639
+rank_3_model_5_ptm_seed_0 pLDDT:82.69 pTMscore:0.7481
+rank_4_model_2_ptm_seed_0 pLDDT:82.12 pTMscore:0.7636
+rank_5_model_1_ptm_seed_0 pLDDT:79.85 pTMscore:0.7284
