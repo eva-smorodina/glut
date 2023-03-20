@@ -1,0 +1,65 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q92536              	    80	    T	    S	         ?	Q92536    	    80	  S	  T	 probably damaging	      0.98	    0.0405	     0.753
+Q92536              	    74	    T	    I	         ?	Q92536    	    74	  T	  I	            benign	     0.451	    0.0999	     0.889
+Q92536              	    74	    T	    G	         ?	Q92536    	    74	  T	  G	 probably damaging	     0.992	    0.0314	     0.704
+Q92536              	    74	    T	    A	         ?	Q92536    	    74	  T	  A	            benign	     0.128	      0.14	     0.925
+Q92536              	    74	    T	    L	         ?	Q92536    	    74	  T	  L	 possibly damaging	     0.521	     0.096	     0.882
+Q92536              	    74	    T	    M	         ?	Q92536    	    74	  T	  M	 possibly damaging	     0.939	    0.0562	       0.8
+Q92536              	    74	    T	    F	         ?	Q92536    	    74	  T	  F	 probably damaging	     0.976	     0.043	      0.76
+Q92536              	    74	    T	    W	         ?	Q92536    	    74	  T	  W	 probably damaging	     0.998	    0.0112	     0.273
+Q92536              	    74	    T	    Q	         ?	Q92536    	    74	  T	  Q	 possibly damaging	     0.781	    0.0747	     0.848
+Q92536              	    74	    T	    K	         ?	Q92536    	    74	  T	  K	 possibly damaging	     0.685	    0.0836	     0.861
+Q92536              	    74	    T	    E	         ?	Q92536    	    74	  T	  E	 possibly damaging	     0.609	    0.0912	     0.872
+Q92536              	    74	    T	    S	         ?	Q92536    	    74	  T	  S	            benign	     0.003	     0.556	     0.981
+Q92536              	    74	    T	    P	         ?	Q92536    	    74	  T	  P	 probably damaging	     0.993	    0.0301	     0.696
+Q92536              	    74	    T	    V	         ?	Q92536    	    74	  T	  V	            benign	      0.02	     0.198	     0.952
+Q92536              	    74	    T	    C	         ?	Q92536    	    74	  T	  C	 possibly damaging	     0.822	    0.0699	     0.839
+Q92536              	    74	    T	    Y	         ?	Q92536    	    74	  T	  Y	 probably damaging	     0.992	    0.0314	     0.704
+Q92536              	    74	    T	    H	         ?	Q92536    	    74	  T	  H	 probably damaging	     0.994	    0.0289	     0.689
+Q92536              	    74	    T	    R	         ?	Q92536    	    74	  T	  R	 possibly damaging	     0.953	    0.0514	     0.788
+Q92536              	    74	    T	    N	         ?	Q92536    	    74	  T	  N	 possibly damaging	     0.834	    0.0688	     0.837
+Q92536              	    74	    T	    D	         ?	Q92536    	    74	  T	  D	 possibly damaging	      0.87	    0.0657	     0.828
+Q92536              	    10	    T	    I	         ?	Q92536    	    10	  T	  I	            benign	         0	         1	         1
+Q92536              	    10	    T	    G	         ?	Q92536    	    10	  T	  G	            benign	      0.01	     0.226	      0.96
+Q92536              	    10	    T	    A	         ?	Q92536    	    10	  T	  A	            benign	         0	         1	         1
+Q92536              	    10	    T	    L	         ?	Q92536    	    10	  T	  L	            benign	     0.002	     0.704	     0.987
+Q92536              	    10	    T	    M	         ?	Q92536    	    10	  T	  M	            benign	     0.001	     0.852	     0.994
+Q92536              	    10	    T	    F	         ?	Q92536    	    10	  T	  F	            benign	     0.048	     0.167	     0.941
+Q92536              	    10	    T	    W	         ?	Q92536    	    10	  T	  W	 possibly damaging	     0.806	     0.072	     0.842
+Q92536              	    10	    T	    Q	         ?	Q92536    	    10	  T	  Q	            benign	     0.048	     0.167	     0.941
+Q92536              	    10	    T	    K	         ?	Q92536    	    10	  T	  K	            benign	     0.008	     0.239	     0.963
+Q92536              	    10	    T	    E	         ?	Q92536    	    10	  T	  E	            benign	     0.021	     0.196	     0.951
+Q92536              	    10	    T	    S	         ?	Q92536    	    10	  T	  S	            benign	         0	         1	         1
+Q92536              	    10	    T	    P	         ?	Q92536    	    10	  T	  P	            benign	     0.072	     0.156	     0.935
+Q92536              	    10	    T	    V	         ?	Q92536    	    10	  T	  V	            benign	         0	         1	         1
+Q92536              	    10	    T	    C	         ?	Q92536    	    10	  T	  C	            benign	     0.266	     0.117	     0.909
+Q92536              	    10	    T	    Y	         ?	Q92536    	    10	  T	  Y	            benign	     0.266	     0.117	     0.909
+Q92536              	    10	    T	    H	         ?	Q92536    	    10	  T	  H	            benign	     0.266	     0.117	     0.909
+Q92536              	    10	    T	    R	         ?	Q92536    	    10	  T	  R	            benign	         0	         1	         1
+Q92536              	    10	    T	    N	         ?	Q92536    	    10	  T	  N	            benign	     0.048	     0.167	     0.941
+Q92536              	    10	    T	    D	         ?	Q92536    	    10	  T	  D	            benign	     0.048	     0.167	     0.941
+Q92536              	    40	    Q	    L	         ?	Q92536    	    40	  Q	  L	            benign	     0.399	     0.105	     0.895
+Q92536              	    40	    Q	    G	         ?	Q92536    	    40	  Q	  G	 possibly damaging	     0.638	    0.0888	     0.867
+Q92536              	    40	    Q	    A	         ?	Q92536    	    40	  Q	  A	            benign	     0.064	     0.159	     0.937
+Q92536              	    40	    Q	    I	         ?	Q92536    	    40	  Q	  I	 possibly damaging	     0.756	    0.0771	     0.852
+Q92536              	    40	    Q	    M	         ?	Q92536    	    40	  Q	  M	 probably damaging	     0.974	    0.0438	     0.763
+Q92536              	    40	    Q	    F	         ?	Q92536    	    40	  Q	  F	 possibly damaging	     0.926	    0.0582	     0.807
+Q92536              	    40	    Q	    W	         ?	Q92536    	    40	  Q	  W	 probably damaging	     0.993	    0.0301	     0.696
+Q92536              	    40	    Q	    T	         ?	Q92536    	    40	  Q	  T	 possibly damaging	     0.638	    0.0888	     0.867
+Q92536              	    40	    Q	    K	         ?	Q92536    	    40	  Q	  K	            benign	     0.002	     0.704	     0.987
+Q92536              	    40	    Q	    E	         ?	Q92536    	    40	  Q	  E	            benign	     0.017	     0.205	     0.954
+Q92536              	    40	    Q	    S	         ?	Q92536    	    40	  Q	  S	            benign	     0.137	     0.137	     0.924
+Q92536              	    40	    Q	    P	         ?	Q92536    	    40	  Q	  P	 possibly damaging	     0.904	    0.0621	     0.816
+Q92536              	    40	    Q	    V	         ?	Q92536    	    40	  Q	  V	            benign	     0.137	     0.137	     0.924
+Q92536              	    40	    Q	    C	         ?	Q92536    	    40	  Q	  C	 probably damaging	     0.993	    0.0301	     0.696
+Q92536              	    40	    Q	    Y	         ?	Q92536    	    40	  Q	  Y	 possibly damaging	     0.861	    0.0665	      0.83
+Q92536              	    40	    Q	    H	         ?	Q92536    	    40	  Q	  H	            benign	     0.022	     0.195	     0.951
+Q92536              	    40	    Q	    R	         ?	Q92536    	    40	  Q	  R	            benign	     0.004	     0.408	     0.975
+Q92536              	    40	    Q	    N	         ?	Q92536    	    40	  Q	  N	            benign	     0.023	     0.193	      0.95
+Q92536              	    40	    Q	    D	         ?	Q92536    	    40	  Q	  D	 possibly damaging	     0.468	    0.0991	     0.887
+Q92536              	   361	    T	    I	         ?	Q92536    	   361	  I	  T	            benign	      0.01	     0.226	      0.96
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

@@ -1,0 +1,101 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q8NDX2              	   551	    T	    I	         ?	Q8NDX2    	   551	  T	  I	            benign	     0.175	      0.13	     0.919
+Q8NDX2              	   551	    T	    G	         ?	Q8NDX2    	   551	  T	  G	            benign	     0.028	     0.185	     0.948
+Q8NDX2              	   551	    T	    A	         ?	Q8NDX2    	   551	  T	  A	            benign	     0.104	     0.144	     0.928
+Q8NDX2              	   551	    T	    L	         ?	Q8NDX2    	   551	  T	  L	            benign	     0.028	     0.185	     0.948
+Q8NDX2              	   551	    T	    M	         ?	Q8NDX2    	   551	  T	  M	            benign	      0.45	       0.1	     0.889
+Q8NDX2              	   551	    T	    F	         ?	Q8NDX2    	   551	  T	  F	 possibly damaging	     0.933	    0.0573	     0.804
+Q8NDX2              	   551	    T	    W	         ?	Q8NDX2    	   551	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   551	    T	    Q	         ?	Q8NDX2    	   551	  T	  Q	            benign	      0.45	       0.1	     0.889
+Q8NDX2              	   551	    T	    K	         ?	Q8NDX2    	   551	  T	  K	 possibly damaging	     0.933	    0.0573	     0.804
+Q8NDX2              	   551	    T	    E	         ?	Q8NDX2    	   551	  T	  E	 possibly damaging	     0.798	    0.0727	     0.844
+Q8NDX2              	   551	    T	    S	         ?	Q8NDX2    	   551	  T	  S	            benign	     0.104	     0.144	     0.928
+Q8NDX2              	   551	    T	    P	         ?	Q8NDX2    	   551	  T	  P	 probably damaging	     0.985	    0.0375	      0.74
+Q8NDX2              	   551	    T	    V	         ?	Q8NDX2    	   551	  T	  V	 possibly damaging	     0.665	    0.0859	     0.864
+Q8NDX2              	   551	    T	    C	         ?	Q8NDX2    	   551	  T	  C	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   551	    T	    Y	         ?	Q8NDX2    	   551	  T	  Y	 probably damaging	     0.966	    0.0465	     0.775
+Q8NDX2              	   551	    T	    H	         ?	Q8NDX2    	   551	  T	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   551	    T	    R	         ?	Q8NDX2    	   551	  T	  R	 possibly damaging	     0.933	    0.0573	     0.804
+Q8NDX2              	   551	    T	    N	         ?	Q8NDX2    	   551	  T	  N	 possibly damaging	     0.955	    0.0505	     0.786
+Q8NDX2              	   551	    T	    D	         ?	Q8NDX2    	   551	  T	  D	 probably damaging	     0.966	    0.0465	     0.775
+Q8NDX2              	    40	    T	    I	         ?	Q8NDX2    	    40	  T	  I	            benign	     0.049	     0.167	     0.941
+Q8NDX2              	    40	    T	    G	         ?	Q8NDX2    	    40	  T	  G	            benign	     0.003	     0.556	     0.981
+Q8NDX2              	    40	    T	    A	         ?	Q8NDX2    	    40	  T	  A	            benign	     0.002	     0.704	     0.987
+Q8NDX2              	    40	    T	    L	         ?	Q8NDX2    	    40	  T	  L	            benign	     0.006	     0.253	     0.967
+Q8NDX2              	    40	    T	    M	         ?	Q8NDX2    	    40	  T	  M	            benign	     0.422	     0.103	     0.892
+Q8NDX2              	    40	    T	    F	         ?	Q8NDX2    	    40	  T	  F	            benign	     0.017	     0.205	     0.954
+Q8NDX2              	    40	    T	    W	         ?	Q8NDX2    	    40	  T	  W	            benign	     0.422	     0.103	     0.892
+Q8NDX2              	    40	    T	    Q	         ?	Q8NDX2    	    40	  T	  Q	            benign	         0	         1	         1
+Q8NDX2              	    40	    T	    K	         ?	Q8NDX2    	    40	  T	  K	            benign	         0	         1	         1
+Q8NDX2              	    40	    T	    E	         ?	Q8NDX2    	    40	  T	  E	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	    40	    T	    S	         ?	Q8NDX2    	    40	  T	  S	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	    40	    T	    P	         ?	Q8NDX2    	    40	  T	  P	            benign	     0.021	     0.196	     0.951
+Q8NDX2              	    40	    T	    V	         ?	Q8NDX2    	    40	  T	  V	            benign	     0.014	     0.212	     0.956
+Q8NDX2              	    40	    T	    C	         ?	Q8NDX2    	    40	  T	  C	            benign	     0.422	     0.103	     0.892
+Q8NDX2              	    40	    T	    Y	         ?	Q8NDX2    	    40	  T	  Y	            benign	         0	         1	         1
+Q8NDX2              	    40	    T	    H	         ?	Q8NDX2    	    40	  T	  H	            benign	     0.033	     0.179	     0.946
+Q8NDX2              	    40	    T	    R	         ?	Q8NDX2    	    40	  T	  R	            benign	     0.007	     0.246	     0.965
+Q8NDX2              	    40	    T	    N	         ?	Q8NDX2    	    40	  T	  N	            benign	         0	         1	         1
+Q8NDX2              	    40	    T	    D	         ?	Q8NDX2    	    40	  T	  D	            benign	     0.003	     0.556	     0.981
+Q8NDX2              	   384	    T	    I	         ?	Q8NDX2    	   384	  T	  I	 possibly damaging	     0.956	    0.0501	     0.785
+Q8NDX2              	   384	    T	    G	         ?	Q8NDX2    	   384	  T	  G	 possibly damaging	     0.672	    0.0851	     0.863
+Q8NDX2              	   384	    T	    A	         ?	Q8NDX2    	   384	  T	  A	            benign	      0.04	     0.173	     0.944
+Q8NDX2              	   384	    T	    L	         ?	Q8NDX2    	   384	  T	  L	 possibly damaging	     0.803	    0.0723	     0.842
+Q8NDX2              	   384	    T	    M	         ?	Q8NDX2    	   384	  T	  M	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   384	    T	    F	         ?	Q8NDX2    	   384	  T	  F	 probably damaging	     0.967	     0.046	     0.773
+Q8NDX2              	   384	    T	    W	         ?	Q8NDX2    	   384	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   384	    T	    Q	         ?	Q8NDX2    	   384	  T	  Q	 probably damaging	     0.967	     0.046	     0.773
+Q8NDX2              	   384	    T	    K	         ?	Q8NDX2    	   384	  T	  K	 possibly damaging	     0.803	    0.0723	     0.842
+Q8NDX2              	   384	    T	    E	         ?	Q8NDX2    	   384	  T	  E	 possibly damaging	     0.803	    0.0723	     0.842
+Q8NDX2              	   384	    T	    S	         ?	Q8NDX2    	   384	  T	  S	            benign	     0.006	     0.253	     0.967
+Q8NDX2              	   384	    T	    P	         ?	Q8NDX2    	   384	  T	  P	 possibly damaging	     0.956	    0.0501	     0.785
+Q8NDX2              	   384	    T	    V	         ?	Q8NDX2    	   384	  T	  V	 possibly damaging	     0.803	    0.0723	     0.842
+Q8NDX2              	   384	    T	    C	         ?	Q8NDX2    	   384	  T	  C	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   384	    T	    Y	         ?	Q8NDX2    	   384	  T	  Y	 probably damaging	     0.989	    0.0346	     0.723
+Q8NDX2              	   384	    T	    H	         ?	Q8NDX2    	   384	  T	  H	 probably damaging	     0.991	    0.0326	     0.711
+Q8NDX2              	   384	    T	    R	         ?	Q8NDX2    	   384	  T	  R	 possibly damaging	     0.935	     0.057	     0.803
+Q8NDX2              	   384	    T	    N	         ?	Q8NDX2    	   384	  T	  N	            benign	      0.04	     0.173	     0.944
+Q8NDX2              	   384	    T	    D	         ?	Q8NDX2    	   384	  T	  D	 possibly damaging	     0.672	    0.0851	     0.863
+Q8NDX2              	   305	    T	    I	         ?	Q8NDX2    	   305	  T	  I	            benign	     0.143	     0.136	     0.923
+Q8NDX2              	   305	    T	    G	         ?	Q8NDX2    	   305	  T	  G	 possibly damaging	     0.816	    0.0707	      0.84
+Q8NDX2              	   305	    T	    A	         ?	Q8NDX2    	   305	  T	  A	            benign	     0.013	     0.216	     0.957
+Q8NDX2              	   305	    T	    L	         ?	Q8NDX2    	   305	  T	  L	            benign	     0.182	     0.128	     0.918
+Q8NDX2              	   305	    T	    M	         ?	Q8NDX2    	   305	  T	  M	 probably damaging	     0.985	    0.0375	      0.74
+Q8NDX2              	   305	    T	    F	         ?	Q8NDX2    	   305	  T	  F	 possibly damaging	      0.92	    0.0592	      0.81
+Q8NDX2              	   305	    T	    W	         ?	Q8NDX2    	   305	  T	  W	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   305	    T	    Q	         ?	Q8NDX2    	   305	  T	  Q	 possibly damaging	     0.802	    0.0723	     0.843
+Q8NDX2              	   305	    T	    K	         ?	Q8NDX2    	   305	  T	  K	 possibly damaging	     0.812	     0.071	     0.841
+Q8NDX2              	   305	    T	    E	         ?	Q8NDX2    	   305	  T	  E	 possibly damaging	     0.861	    0.0665	      0.83
+Q8NDX2              	   305	    T	    S	         ?	Q8NDX2    	   305	  T	  S	            benign	     0.276	     0.116	     0.908
+Q8NDX2              	   305	    T	    P	         ?	Q8NDX2    	   305	  T	  P	 probably damaging	     0.994	    0.0289	     0.689
+Q8NDX2              	   305	    T	    V	         ?	Q8NDX2    	   305	  T	  V	            benign	     0.137	     0.137	     0.924
+Q8NDX2              	   305	    T	    C	         ?	Q8NDX2    	   305	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   305	    T	    Y	         ?	Q8NDX2    	   305	  T	  Y	 possibly damaging	     0.531	    0.0953	     0.881
+Q8NDX2              	   305	    T	    H	         ?	Q8NDX2    	   305	  T	  H	 probably damaging	     0.985	    0.0375	      0.74
+Q8NDX2              	   305	    T	    R	         ?	Q8NDX2    	   305	  T	  R	            benign	     0.209	     0.124	     0.915
+Q8NDX2              	   305	    T	    N	         ?	Q8NDX2    	   305	  T	  N	 possibly damaging	     0.952	    0.0518	     0.789
+Q8NDX2              	   305	    T	    D	         ?	Q8NDX2    	   305	  T	  D	 probably damaging	     0.982	    0.0393	     0.748
+Q8NDX2              	   119	    T	    I	         ?	Q8NDX2    	   119	  T	  I	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	   119	    T	    G	         ?	Q8NDX2    	   119	  T	  G	            benign	     0.025	     0.189	     0.949
+Q8NDX2              	   119	    T	    A	         ?	Q8NDX2    	   119	  T	  A	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    L	         ?	Q8NDX2    	   119	  T	  L	            benign	     0.004	     0.408	     0.975
+Q8NDX2              	   119	    T	    M	         ?	Q8NDX2    	   119	  T	  M	            benign	     0.004	     0.408	     0.975
+Q8NDX2              	   119	    T	    F	         ?	Q8NDX2    	   119	  T	  F	            benign	     0.011	     0.222	     0.959
+Q8NDX2              	   119	    T	    W	         ?	Q8NDX2    	   119	  T	  W	 possibly damaging	     0.912	    0.0606	     0.814
+Q8NDX2              	   119	    T	    Q	         ?	Q8NDX2    	   119	  T	  Q	            benign	     0.002	     0.704	     0.987
+Q8NDX2              	   119	    T	    K	         ?	Q8NDX2    	   119	  T	  K	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    E	         ?	Q8NDX2    	   119	  T	  E	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    S	         ?	Q8NDX2    	   119	  T	  S	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    P	         ?	Q8NDX2    	   119	  T	  P	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    V	         ?	Q8NDX2    	   119	  T	  V	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    C	         ?	Q8NDX2    	   119	  T	  C	            benign	     0.002	     0.704	     0.987
+Q8NDX2              	   119	    T	    Y	         ?	Q8NDX2    	   119	  T	  Y	 possibly damaging	     0.473	    0.0988	     0.887
+Q8NDX2              	   119	    T	    H	         ?	Q8NDX2    	   119	  T	  H	 possibly damaging	     0.473	    0.0988	     0.887
+Q8NDX2              	   119	    T	    R	         ?	Q8NDX2    	   119	  T	  R	            benign	         0	         1	         1
+Q8NDX2              	   119	    T	    N	         ?	Q8NDX2    	   119	  T	  N	            benign	     0.025	     0.189	     0.949
+Q8NDX2              	   119	    T	    D	         ?	Q8NDX2    	   119	  T	  D	            benign	     0.001	     0.852	     0.994
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

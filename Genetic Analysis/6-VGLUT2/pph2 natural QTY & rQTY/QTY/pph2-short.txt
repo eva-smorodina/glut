@@ -1,0 +1,139 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q9P2U8              	     8	    I	    T	         ?	Q9P2U8    	     8	  I	  T	            benign	     0.001	     0.852	     0.994
+Q9P2U8              	     8	    I	    G	         ?	Q9P2U8    	     8	  I	  G	            benign	     0.024	     0.191	      0.95
+Q9P2U8              	     8	    I	    A	         ?	Q9P2U8    	     8	  I	  A	            benign	         0	         1	         1
+Q9P2U8              	     8	    I	    L	         ?	Q9P2U8    	     8	  I	  L	            benign	     0.004	     0.408	     0.975
+Q9P2U8              	     8	    I	    M	         ?	Q9P2U8    	     8	  I	  M	            benign	     0.241	      0.12	     0.912
+Q9P2U8              	     8	    I	    F	         ?	Q9P2U8    	     8	  I	  F	            benign	         0	         1	         1
+Q9P2U8              	     8	    I	    W	         ?	Q9P2U8    	     8	  I	  W	 possibly damaging	     0.907	    0.0615	     0.815
+Q9P2U8              	     8	    I	    Q	         ?	Q9P2U8    	     8	  I	  Q	 possibly damaging	      0.46	    0.0994	     0.888
+Q9P2U8              	     8	    I	    K	         ?	Q9P2U8    	     8	  I	  K	            benign	     0.107	     0.143	     0.928
+Q9P2U8              	     8	    I	    E	         ?	Q9P2U8    	     8	  I	  E	            benign	     0.107	     0.143	     0.928
+Q9P2U8              	     8	    I	    S	         ?	Q9P2U8    	     8	  I	  S	            benign	     0.001	     0.852	     0.994
+Q9P2U8              	     8	    I	    P	         ?	Q9P2U8    	     8	  I	  P	            benign	     0.195	     0.126	     0.916
+Q9P2U8              	     8	    I	    V	         ?	Q9P2U8    	     8	  I	  V	            benign	         0	         1	         1
+Q9P2U8              	     8	    I	    C	         ?	Q9P2U8    	     8	  I	  C	 possibly damaging	      0.46	    0.0994	     0.888
+Q9P2U8              	     8	    I	    Y	         ?	Q9P2U8    	     8	  I	  Y	            benign	     0.057	     0.162	     0.939
+Q9P2U8              	     8	    I	    H	         ?	Q9P2U8    	     8	  I	  H	 possibly damaging	     0.722	      0.08	     0.857
+Q9P2U8              	     8	    I	    R	         ?	Q9P2U8    	     8	  I	  R	            benign	     0.107	     0.143	     0.928
+Q9P2U8              	     8	    I	    N	         ?	Q9P2U8    	     8	  I	  N	            benign	     0.083	     0.152	     0.933
+Q9P2U8              	     8	    I	    D	         ?	Q9P2U8    	     8	  I	  D	            benign	     0.107	     0.143	     0.928
+Q9P2U8              	    73	    I	    T	         ?	Q9P2U8    	    73	  I	  T	 probably damaging	     0.995	    0.0277	     0.681
+Q9P2U8              	    73	    I	    G	         ?	Q9P2U8    	    73	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    A	         ?	Q9P2U8    	    73	  I	  A	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    L	         ?	Q9P2U8    	    73	  I	  L	            benign	     0.054	     0.164	      0.94
+Q9P2U8              	    73	    I	    M	         ?	Q9P2U8    	    73	  I	  M	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	    73	    I	    F	         ?	Q9P2U8    	    73	  I	  F	 probably damaging	     0.985	    0.0375	      0.74
+Q9P2U8              	    73	    I	    W	         ?	Q9P2U8    	    73	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    Q	         ?	Q9P2U8    	    73	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    K	         ?	Q9P2U8    	    73	  I	  K	 possibly damaging	     0.931	    0.0577	     0.805
+Q9P2U8              	    73	    I	    E	         ?	Q9P2U8    	    73	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    S	         ?	Q9P2U8    	    73	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    P	         ?	Q9P2U8    	    73	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    V	         ?	Q9P2U8    	    73	  I	  V	            benign	     0.264	     0.117	      0.91
+Q9P2U8              	    73	    I	    C	         ?	Q9P2U8    	    73	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    Y	         ?	Q9P2U8    	    73	  I	  Y	 probably damaging	     0.985	    0.0375	      0.74
+Q9P2U8              	    73	    I	    H	         ?	Q9P2U8    	    73	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    R	         ?	Q9P2U8    	    73	  I	  R	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	    73	    I	    N	         ?	Q9P2U8    	    73	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    73	    I	    D	         ?	Q9P2U8    	    73	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    T	         ?	Q9P2U8    	   482	  I	  T	 probably damaging	     0.981	    0.0399	      0.75
+Q9P2U8              	   482	    I	    G	         ?	Q9P2U8    	   482	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    A	         ?	Q9P2U8    	   482	  I	  A	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   482	    I	    L	         ?	Q9P2U8    	   482	  I	  L	            benign	     0.029	     0.183	     0.948
+Q9P2U8              	   482	    I	    M	         ?	Q9P2U8    	   482	  I	  M	 probably damaging	     0.992	    0.0314	     0.704
+Q9P2U8              	   482	    I	    F	         ?	Q9P2U8    	   482	  I	  F	 possibly damaging	      0.48	    0.0985	     0.886
+Q9P2U8              	   482	    I	    W	         ?	Q9P2U8    	   482	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    Q	         ?	Q9P2U8    	   482	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    K	         ?	Q9P2U8    	   482	  I	  K	 possibly damaging	     0.789	    0.0737	     0.846
+Q9P2U8              	   482	    I	    E	         ?	Q9P2U8    	   482	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    S	         ?	Q9P2U8    	   482	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    P	         ?	Q9P2U8    	   482	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    V	         ?	Q9P2U8    	   482	  I	  V	            benign	     0.091	     0.149	     0.931
+Q9P2U8              	   482	    I	    C	         ?	Q9P2U8    	   482	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    Y	         ?	Q9P2U8    	   482	  I	  Y	 possibly damaging	     0.745	    0.0785	     0.853
+Q9P2U8              	   482	    I	    H	         ?	Q9P2U8    	   482	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    R	         ?	Q9P2U8    	   482	  I	  R	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   482	    I	    N	         ?	Q9P2U8    	   482	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   482	    I	    D	         ?	Q9P2U8    	   482	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	    41	    I	    T	         ?	Q9P2U8    	    41	  I	  T	            benign	     0.038	     0.175	     0.944
+Q9P2U8              	    41	    I	    G	         ?	Q9P2U8    	    41	  I	  G	 possibly damaging	     0.798	    0.0727	     0.844
+Q9P2U8              	    41	    I	    A	         ?	Q9P2U8    	    41	  I	  A	            benign	      0.05	     0.166	     0.941
+Q9P2U8              	    41	    I	    L	         ?	Q9P2U8    	    41	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9P2U8              	    41	    I	    M	         ?	Q9P2U8    	    41	  I	  M	 possibly damaging	     0.611	    0.0911	     0.872
+Q9P2U8              	    41	    I	    F	         ?	Q9P2U8    	    41	  I	  F	 possibly damaging	     0.913	    0.0604	     0.813
+Q9P2U8              	    41	    I	    W	         ?	Q9P2U8    	    41	  I	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q9P2U8              	    41	    I	    Q	         ?	Q9P2U8    	    41	  I	  Q	 probably damaging	     0.966	    0.0465	     0.775
+Q9P2U8              	    41	    I	    K	         ?	Q9P2U8    	    41	  I	  K	 possibly damaging	     0.933	    0.0573	     0.804
+Q9P2U8              	    41	    I	    E	         ?	Q9P2U8    	    41	  I	  E	 possibly damaging	     0.933	    0.0573	     0.804
+Q9P2U8              	    41	    I	    S	         ?	Q9P2U8    	    41	  I	  S	 possibly damaging	     0.599	    0.0919	     0.873
+Q9P2U8              	    41	    I	    P	         ?	Q9P2U8    	    41	  I	  P	 probably damaging	     0.966	    0.0465	     0.775
+Q9P2U8              	    41	    I	    V	         ?	Q9P2U8    	    41	  I	  V	            benign	     0.104	     0.144	     0.928
+Q9P2U8              	    41	    I	    C	         ?	Q9P2U8    	    41	  I	  C	 probably damaging	     0.997	    0.0167	     0.409
+Q9P2U8              	    41	    I	    Y	         ?	Q9P2U8    	    41	  I	  Y	 probably damaging	     0.966	    0.0465	     0.775
+Q9P2U8              	    41	    I	    H	         ?	Q9P2U8    	    41	  I	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q9P2U8              	    41	    I	    R	         ?	Q9P2U8    	    41	  I	  R	 probably damaging	     0.966	    0.0465	     0.775
+Q9P2U8              	    41	    I	    N	         ?	Q9P2U8    	    41	  I	  N	 possibly damaging	     0.913	    0.0604	     0.813
+Q9P2U8              	    41	    I	    D	         ?	Q9P2U8    	    41	  I	  D	 possibly damaging	     0.933	    0.0573	     0.804
+Q9P2U8              	   369	    I	    T	         ?	Q9P2U8    	   369	  I	  T	 possibly damaging	     0.949	    0.0529	     0.792
+Q9P2U8              	   369	    I	    G	         ?	Q9P2U8    	   369	  I	  G	 probably damaging	     0.976	     0.043	      0.76
+Q9P2U8              	   369	    I	    A	         ?	Q9P2U8    	   369	  I	  A	 possibly damaging	     0.525	    0.0959	     0.881
+Q9P2U8              	   369	    I	    L	         ?	Q9P2U8    	   369	  I	  L	            benign	         0	         1	         1
+Q9P2U8              	   369	    I	    M	         ?	Q9P2U8    	   369	  I	  M	            benign	     0.225	     0.121	     0.913
+Q9P2U8              	   369	    I	    F	         ?	Q9P2U8    	   369	  I	  F	            benign	      0.17	     0.131	     0.919
+Q9P2U8              	   369	    I	    W	         ?	Q9P2U8    	   369	  I	  W	 probably damaging	     0.994	    0.0289	     0.689
+Q9P2U8              	   369	    I	    Q	         ?	Q9P2U8    	   369	  I	  Q	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   369	    I	    K	         ?	Q9P2U8    	   369	  I	  K	            benign	     0.039	     0.174	     0.944
+Q9P2U8              	   369	    I	    E	         ?	Q9P2U8    	   369	  I	  E	 probably damaging	     0.992	    0.0314	     0.704
+Q9P2U8              	   369	    I	    S	         ?	Q9P2U8    	   369	  I	  S	 probably damaging	     0.969	     0.045	      0.77
+Q9P2U8              	   369	    I	    P	         ?	Q9P2U8    	   369	  I	  P	 possibly damaging	     0.881	    0.0646	     0.824
+Q9P2U8              	   369	    I	    V	         ?	Q9P2U8    	   369	  I	  V	            benign	     0.009	     0.233	     0.961
+Q9P2U8              	   369	    I	    C	         ?	Q9P2U8    	   369	  I	  C	 probably damaging	     0.994	    0.0289	     0.689
+Q9P2U8              	   369	    I	    Y	         ?	Q9P2U8    	   369	  I	  Y	            benign	     0.311	     0.112	     0.904
+Q9P2U8              	   369	    I	    H	         ?	Q9P2U8    	   369	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   369	    I	    R	         ?	Q9P2U8    	   369	  I	  R	 possibly damaging	     0.794	    0.0731	     0.845
+Q9P2U8              	   369	    I	    N	         ?	Q9P2U8    	   369	  I	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   369	    I	    D	         ?	Q9P2U8    	   369	  I	  D	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   365	    I	    T	         ?	Q9P2U8    	   365	  I	  T	 possibly damaging	     0.627	    0.0893	     0.869
+Q9P2U8              	   365	    I	    G	         ?	Q9P2U8    	   365	  I	  G	            benign	     0.205	     0.124	     0.915
+Q9P2U8              	   365	    I	    A	         ?	Q9P2U8    	   365	  I	  A	 possibly damaging	     0.763	    0.0767	     0.851
+Q9P2U8              	   365	    I	    L	         ?	Q9P2U8    	   365	  I	  L	            benign	         0	         1	         1
+Q9P2U8              	   365	    I	    M	         ?	Q9P2U8    	   365	  I	  M	 possibly damaging	     0.606	    0.0916	     0.873
+Q9P2U8              	   365	    I	    F	         ?	Q9P2U8    	   365	  I	  F	            benign	     0.001	     0.852	     0.994
+Q9P2U8              	   365	    I	    W	         ?	Q9P2U8    	   365	  I	  W	 probably damaging	     0.994	    0.0289	     0.689
+Q9P2U8              	   365	    I	    Q	         ?	Q9P2U8    	   365	  I	  Q	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   365	    I	    K	         ?	Q9P2U8    	   365	  I	  K	            benign	     0.222	     0.122	     0.914
+Q9P2U8              	   365	    I	    E	         ?	Q9P2U8    	   365	  I	  E	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   365	    I	    S	         ?	Q9P2U8    	   365	  I	  S	 possibly damaging	     0.849	    0.0674	     0.834
+Q9P2U8              	   365	    I	    P	         ?	Q9P2U8    	   365	  I	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   365	    I	    V	         ?	Q9P2U8    	   365	  I	  V	            benign	     0.001	     0.852	     0.994
+Q9P2U8              	   365	    I	    C	         ?	Q9P2U8    	   365	  I	  C	            benign	     0.112	     0.142	     0.927
+Q9P2U8              	   365	    I	    Y	         ?	Q9P2U8    	   365	  I	  Y	            benign	       0.1	     0.145	     0.929
+Q9P2U8              	   365	    I	    H	         ?	Q9P2U8    	   365	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   365	    I	    R	         ?	Q9P2U8    	   365	  I	  R	 possibly damaging	     0.794	    0.0731	     0.845
+Q9P2U8              	   365	    I	    N	         ?	Q9P2U8    	   365	  I	  N	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   365	    I	    D	         ?	Q9P2U8    	   365	  I	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   286	    I	    T	         ?	Q9P2U8    	   286	  I	  T	 probably damaging	     0.992	    0.0314	     0.704
+Q9P2U8              	   286	    I	    G	         ?	Q9P2U8    	   286	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    A	         ?	Q9P2U8    	   286	  I	  A	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    L	         ?	Q9P2U8    	   286	  I	  L	            benign	     0.007	     0.246	     0.965
+Q9P2U8              	   286	    I	    M	         ?	Q9P2U8    	   286	  I	  M	 probably damaging	     0.992	    0.0314	     0.704
+Q9P2U8              	   286	    I	    F	         ?	Q9P2U8    	   286	  I	  F	 probably damaging	     0.978	    0.0417	     0.756
+Q9P2U8              	   286	    I	    W	         ?	Q9P2U8    	   286	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    Q	         ?	Q9P2U8    	   286	  I	  Q	 probably damaging	     0.998	    0.0112	     0.273
+Q9P2U8              	   286	    I	    K	         ?	Q9P2U8    	   286	  I	  K	 possibly damaging	       0.9	    0.0627	     0.818
+Q9P2U8              	   286	    I	    E	         ?	Q9P2U8    	   286	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    S	         ?	Q9P2U8    	   286	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    P	         ?	Q9P2U8    	   286	  I	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q9P2U8              	   286	    I	    V	         ?	Q9P2U8    	   286	  I	  V	 possibly damaging	     0.617	    0.0905	     0.871
+Q9P2U8              	   286	    I	    C	         ?	Q9P2U8    	   286	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    Y	         ?	Q9P2U8    	   286	  I	  Y	 probably damaging	     0.977	    0.0424	     0.758
+Q9P2U8              	   286	    I	    H	         ?	Q9P2U8    	   286	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    R	         ?	Q9P2U8    	   286	  I	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9P2U8              	   286	    I	    N	         ?	Q9P2U8    	   286	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q9P2U8              	   286	    I	    D	         ?	Q9P2U8    	   286	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

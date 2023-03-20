@@ -1,0 +1,103 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(Q8NDX2:551:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>G
+(Q8NDX2:551:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>L
+(Q8NDX2:551:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>M
+(Q8NDX2:551:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>F
+(Q8NDX2:551:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>W
+(Q8NDX2:551:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Q
+(Q8NDX2:551:T/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>K
+(Q8NDX2:551:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>E
+(Q8NDX2:551:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>V
+(Q8NDX2:551:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>C
+(Q8NDX2:551:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Y
+(Q8NDX2:551:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>H
+(Q8NDX2:551:T/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>R
+(Q8NDX2:551:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>D
+(Q8NDX2:40:T/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>G
+(Q8NDX2:40:T/L)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>L
+(Q8NDX2:40:T/M)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>M
+(Q8NDX2:40:T/F)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>F
+(Q8NDX2:40:T/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>W
+(Q8NDX2:40:T/Q)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Q
+(Q8NDX2:40:T/K)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>K
+(Q8NDX2:40:T/E)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>E
+(Q8NDX2:40:T/V)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>V
+(Q8NDX2:40:T/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>C
+(Q8NDX2:40:T/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Y
+(Q8NDX2:40:T/H)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>H
+(Q8NDX2:40:T/R)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>R
+(Q8NDX2:40:T/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>D
+(Q8NDX2:384:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>G
+(Q8NDX2:384:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>L
+(Q8NDX2:384:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>M
+(Q8NDX2:384:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>F
+(Q8NDX2:384:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>W
+(Q8NDX2:384:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Q
+(Q8NDX2:384:T/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>K
+(Q8NDX2:384:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>E
+(Q8NDX2:384:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>V
+(Q8NDX2:384:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>C
+(Q8NDX2:384:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Y
+(Q8NDX2:384:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>H
+(Q8NDX2:384:T/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>R
+(Q8NDX2:384:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>D
+(Q8NDX2:305:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>G
+(Q8NDX2:305:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>L
+(Q8NDX2:305:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>M
+(Q8NDX2:305:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>F
+(Q8NDX2:305:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>W
+(Q8NDX2:305:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Q
+(Q8NDX2:305:T/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>K
+(Q8NDX2:305:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>E
+(Q8NDX2:305:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>V
+(Q8NDX2:305:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>C
+(Q8NDX2:305:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>Y
+(Q8NDX2:305:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>H
+(Q8NDX2:305:T/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>R
+(Q8NDX2:305:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACC)>D
+(Q8NDX2:119:T/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>G
+(Q8NDX2:119:T/L)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>L
+(Q8NDX2:119:T/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>M
+(Q8NDX2:119:T/F)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>F
+(Q8NDX2:119:T/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>W
+(Q8NDX2:119:T/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Q
+(Q8NDX2:119:T/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>E
+(Q8NDX2:119:T/V)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>V
+(Q8NDX2:119:T/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>C
+(Q8NDX2:119:T/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Y
+(Q8NDX2:119:T/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>H
+(Q8NDX2:119:T/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>N
+(Q8NDX2:119:T/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>D
+Total errors/warnings: 69
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors

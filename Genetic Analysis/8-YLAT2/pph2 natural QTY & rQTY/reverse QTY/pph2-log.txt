@@ -1,0 +1,112 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(Q92536:80:T/I)          ERROR: Neither AA1 (T) nor AA2 (I) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/G)          ERROR: Neither AA1 (T) nor AA2 (G) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/A)          ERROR: Neither AA1 (T) nor AA2 (A) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/L)          ERROR: Neither AA1 (T) nor AA2 (L) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/M)          ERROR: Neither AA1 (T) nor AA2 (M) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/F)          ERROR: Neither AA1 (T) nor AA2 (F) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/W)          ERROR: Neither AA1 (T) nor AA2 (W) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/Q)          ERROR: Neither AA1 (T) nor AA2 (Q) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/K)          ERROR: Neither AA1 (T) nor AA2 (K) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/E)          ERROR: Neither AA1 (T) nor AA2 (E) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/S)          WARNING: Swapped input residues AA1 (T) and AA2 (S) for Q92536 query sequence at position (80)
+(Q92536:80:T/P)          ERROR: Neither AA1 (T) nor AA2 (P) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/V)          ERROR: Neither AA1 (T) nor AA2 (V) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/C)          ERROR: Neither AA1 (T) nor AA2 (C) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/Y)          ERROR: Neither AA1 (T) nor AA2 (Y) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/H)          ERROR: Neither AA1 (T) nor AA2 (H) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/R)          ERROR: Neither AA1 (T) nor AA2 (R) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/N)          ERROR: Neither AA1 (T) nor AA2 (N) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:80:T/D)          ERROR: Neither AA1 (T) nor AA2 (D) in input matches Q92536 query sequence residue (S) at position (80)
+(Q92536:74:T/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>G
+(Q92536:74:T/L)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>L
+(Q92536:74:T/M)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>M
+(Q92536:74:T/F)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>F
+(Q92536:74:T/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>W
+(Q92536:74:T/Q)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Q
+(Q92536:74:T/K)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>K
+(Q92536:74:T/E)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>E
+(Q92536:74:T/V)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>V
+(Q92536:74:T/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>C
+(Q92536:74:T/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>Y
+(Q92536:74:T/H)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>H
+(Q92536:74:T/R)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>R
+(Q92536:74:T/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACT)>D
+(Q92536:10:T/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>G
+(Q92536:10:T/L)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>L
+(Q92536:10:T/M)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>M
+(Q92536:10:T/F)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>F
+(Q92536:10:T/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>W
+(Q92536:10:T/Q)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Q
+(Q92536:10:T/E)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>E
+(Q92536:10:T/V)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>V
+(Q92536:10:T/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>C
+(Q92536:10:T/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>Y
+(Q92536:10:T/H)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>H
+(Q92536:10:T/N)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>N
+(Q92536:10:T/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: T(ACA)>D
+(Q92536:40:Q/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>G
+(Q92536:40:Q/A)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>A
+(Q92536:40:Q/I)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>I
+(Q92536:40:Q/M)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>M
+(Q92536:40:Q/F)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>F
+(Q92536:40:Q/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>W
+(Q92536:40:Q/T)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>T
+(Q92536:40:Q/S)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>S
+(Q92536:40:Q/V)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>V
+(Q92536:40:Q/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>C
+(Q92536:40:Q/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>Y
+(Q92536:40:Q/N)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>N
+(Q92536:40:Q/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: Q(CAG)>D
+(Q92536:361:T/I)         WARNING: Swapped input residues AA1 (T) and AA2 (I) for Q92536 query sequence at position (361)
+(Q92536:361:T/G)         ERROR: Neither AA1 (T) nor AA2 (G) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/A)         ERROR: Neither AA1 (T) nor AA2 (A) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/L)         ERROR: Neither AA1 (T) nor AA2 (L) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/M)         ERROR: Neither AA1 (T) nor AA2 (M) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/F)         ERROR: Neither AA1 (T) nor AA2 (F) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/W)         ERROR: Neither AA1 (T) nor AA2 (W) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/Q)         ERROR: Neither AA1 (T) nor AA2 (Q) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/K)         ERROR: Neither AA1 (T) nor AA2 (K) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/E)         ERROR: Neither AA1 (T) nor AA2 (E) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/S)         ERROR: Neither AA1 (T) nor AA2 (S) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/P)         ERROR: Neither AA1 (T) nor AA2 (P) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/V)         ERROR: Neither AA1 (T) nor AA2 (V) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/C)         ERROR: Neither AA1 (T) nor AA2 (C) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/Y)         ERROR: Neither AA1 (T) nor AA2 (Y) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/H)         ERROR: Neither AA1 (T) nor AA2 (H) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/R)         ERROR: Neither AA1 (T) nor AA2 (R) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/N)         ERROR: Neither AA1 (T) nor AA2 (N) in input matches Q92536 query sequence residue (I) at position (361)
+(Q92536:361:T/D)         ERROR: Neither AA1 (T) nor AA2 (D) in input matches Q92536 query sequence residue (I) at position (361)
+Total errors/warnings: 78
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors

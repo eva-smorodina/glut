@@ -1,0 +1,196 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q8NDX2              	   100	    I	    T	         ?	Q8NDX2    	   100	  I	  T	 possibly damaging	     0.934	    0.0572	     0.803
+Q8NDX2              	   100	    I	    G	         ?	Q8NDX2    	   100	  I	  G	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   100	    I	    A	         ?	Q8NDX2    	   100	  I	  A	 possibly damaging	     0.919	    0.0594	     0.811
+Q8NDX2              	   100	    I	    L	         ?	Q8NDX2    	   100	  I	  L	            benign	     0.008	     0.239	     0.963
+Q8NDX2              	   100	    I	    M	         ?	Q8NDX2    	   100	  I	  M	 possibly damaging	     0.505	    0.0966	     0.883
+Q8NDX2              	   100	    I	    F	         ?	Q8NDX2    	   100	  I	  F	 possibly damaging	     0.816	    0.0707	      0.84
+Q8NDX2              	   100	    I	    W	         ?	Q8NDX2    	   100	  I	  W	 probably damaging	     0.996	    0.0222	     0.545
+Q8NDX2              	   100	    I	    Q	         ?	Q8NDX2    	   100	  I	  Q	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   100	    I	    K	         ?	Q8NDX2    	   100	  I	  K	            benign	     0.002	     0.704	     0.987
+Q8NDX2              	   100	    I	    E	         ?	Q8NDX2    	   100	  I	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   100	    I	    S	         ?	Q8NDX2    	   100	  I	  S	 possibly damaging	     0.951	    0.0522	      0.79
+Q8NDX2              	   100	    I	    P	         ?	Q8NDX2    	   100	  I	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   100	    I	    V	         ?	Q8NDX2    	   100	  I	  V	            benign	     0.011	     0.222	     0.959
+Q8NDX2              	   100	    I	    C	         ?	Q8NDX2    	   100	  I	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   100	    I	    Y	         ?	Q8NDX2    	   100	  I	  Y	 possibly damaging	     0.677	    0.0847	     0.862
+Q8NDX2              	   100	    I	    H	         ?	Q8NDX2    	   100	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   100	    I	    R	         ?	Q8NDX2    	   100	  I	  R	 possibly damaging	     0.743	    0.0786	     0.853
+Q8NDX2              	   100	    I	    N	         ?	Q8NDX2    	   100	  I	  N	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   100	    I	    D	         ?	Q8NDX2    	   100	  I	  D	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	    13	    I	    T	         ?	Q8NDX2    	    13	  I	  T	            benign	         0	         1	         1
+Q8NDX2              	    13	    I	    G	         ?	Q8NDX2    	    13	  I	  G	            benign	     0.023	     0.193	      0.95
+Q8NDX2              	    13	    I	    A	         ?	Q8NDX2    	    13	  I	  A	            benign	         0	         1	         1
+Q8NDX2              	    13	    I	    L	         ?	Q8NDX2    	    13	  I	  L	            benign	     0.003	     0.556	     0.981
+Q8NDX2              	    13	    I	    M	         ?	Q8NDX2    	    13	  I	  M	            benign	     0.375	     0.107	     0.897
+Q8NDX2              	    13	    I	    F	         ?	Q8NDX2    	    13	  I	  F	            benign	         0	         1	         1
+Q8NDX2              	    13	    I	    W	         ?	Q8NDX2    	    13	  I	  W	 possibly damaging	      0.75	    0.0776	     0.853
+Q8NDX2              	    13	    I	    Q	         ?	Q8NDX2    	    13	  I	  Q	            benign	     0.443	       0.1	      0.89
+Q8NDX2              	    13	    I	    K	         ?	Q8NDX2    	    13	  I	  K	            benign	       0.1	     0.145	     0.929
+Q8NDX2              	    13	    I	    E	         ?	Q8NDX2    	    13	  I	  E	            benign	       0.1	     0.145	     0.929
+Q8NDX2              	    13	    I	    S	         ?	Q8NDX2    	    13	  I	  S	            benign	     0.017	     0.205	     0.954
+Q8NDX2              	    13	    I	    P	         ?	Q8NDX2    	    13	  I	  P	            benign	     0.185	     0.128	     0.917
+Q8NDX2              	    13	    I	    V	         ?	Q8NDX2    	    13	  I	  V	            benign	         0	         1	         1
+Q8NDX2              	    13	    I	    C	         ?	Q8NDX2    	    13	  I	  C	 possibly damaging	     0.707	    0.0817	     0.859
+Q8NDX2              	    13	    I	    Y	         ?	Q8NDX2    	    13	  I	  Y	            benign	     0.053	     0.164	      0.94
+Q8NDX2              	    13	    I	    H	         ?	Q8NDX2    	    13	  I	  H	 possibly damaging	     0.707	    0.0817	     0.859
+Q8NDX2              	    13	    I	    R	         ?	Q8NDX2    	    13	  I	  R	            benign	     0.281	     0.116	     0.908
+Q8NDX2              	    13	    I	    N	         ?	Q8NDX2    	    13	  I	  N	            benign	     0.228	     0.121	     0.913
+Q8NDX2              	    13	    I	    D	         ?	Q8NDX2    	    13	  I	  D	            benign	       0.1	     0.145	     0.929
+Q8NDX2              	   141	    I	    T	         ?	Q8NDX2    	   141	  I	  T	 possibly damaging	     0.772	    0.0757	     0.849
+Q8NDX2              	   141	    I	    G	         ?	Q8NDX2    	   141	  I	  G	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   141	    I	    A	         ?	Q8NDX2    	   141	  I	  A	 possibly damaging	      0.95	    0.0527	     0.791
+Q8NDX2              	   141	    I	    L	         ?	Q8NDX2    	   141	  I	  L	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	   141	    I	    M	         ?	Q8NDX2    	   141	  I	  M	 possibly damaging	      0.95	    0.0527	     0.791
+Q8NDX2              	   141	    I	    F	         ?	Q8NDX2    	   141	  I	  F	            benign	     0.069	     0.157	     0.935
+Q8NDX2              	   141	    I	    W	         ?	Q8NDX2    	   141	  I	  W	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   141	    I	    Q	         ?	Q8NDX2    	   141	  I	  Q	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   141	    I	    K	         ?	Q8NDX2    	   141	  I	  K	            benign	     0.264	     0.117	      0.91
+Q8NDX2              	   141	    I	    E	         ?	Q8NDX2    	   141	  I	  E	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   141	    I	    S	         ?	Q8NDX2    	   141	  I	  S	 probably damaging	     0.996	    0.0222	     0.545
+Q8NDX2              	   141	    I	    P	         ?	Q8NDX2    	   141	  I	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   141	    I	    V	         ?	Q8NDX2    	   141	  I	  V	            benign	     0.116	     0.142	     0.927
+Q8NDX2              	   141	    I	    C	         ?	Q8NDX2    	   141	  I	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   141	    I	    Y	         ?	Q8NDX2    	   141	  I	  Y	            benign	     0.363	     0.108	     0.898
+Q8NDX2              	   141	    I	    H	         ?	Q8NDX2    	   141	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   141	    I	    R	         ?	Q8NDX2    	   141	  I	  R	 possibly damaging	     0.908	    0.0613	     0.815
+Q8NDX2              	   141	    I	    N	         ?	Q8NDX2    	   141	  I	  N	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   141	    I	    D	         ?	Q8NDX2    	   141	  I	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   291	    I	    T	         ?	Q8NDX2    	   291	  I	  T	 probably damaging	     0.983	    0.0387	     0.745
+Q8NDX2              	   291	    I	    G	         ?	Q8NDX2    	   291	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    A	         ?	Q8NDX2    	   291	  I	  A	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    L	         ?	Q8NDX2    	   291	  I	  L	            benign	     0.014	     0.212	     0.956
+Q8NDX2              	   291	    I	    M	         ?	Q8NDX2    	   291	  I	  M	 probably damaging	     0.982	    0.0393	     0.748
+Q8NDX2              	   291	    I	    F	         ?	Q8NDX2    	   291	  I	  F	 probably damaging	     0.966	    0.0465	     0.775
+Q8NDX2              	   291	    I	    W	         ?	Q8NDX2    	   291	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    Q	         ?	Q8NDX2    	   291	  I	  Q	 probably damaging	     0.996	    0.0222	     0.545
+Q8NDX2              	   291	    I	    K	         ?	Q8NDX2    	   291	  I	  K	 possibly damaging	      0.76	    0.0769	     0.852
+Q8NDX2              	   291	    I	    E	         ?	Q8NDX2    	   291	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    S	         ?	Q8NDX2    	   291	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    P	         ?	Q8NDX2    	   291	  I	  P	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   291	    I	    V	         ?	Q8NDX2    	   291	  I	  V	            benign	     0.431	     0.102	     0.892
+Q8NDX2              	   291	    I	    C	         ?	Q8NDX2    	   291	  I	  C	 probably damaging	     0.982	    0.0393	     0.748
+Q8NDX2              	   291	    I	    Y	         ?	Q8NDX2    	   291	  I	  Y	            benign	     0.319	     0.112	     0.903
+Q8NDX2              	   291	    I	    H	         ?	Q8NDX2    	   291	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    R	         ?	Q8NDX2    	   291	  I	  R	 probably damaging	     0.992	    0.0314	     0.704
+Q8NDX2              	   291	    I	    N	         ?	Q8NDX2    	   291	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   291	    I	    D	         ?	Q8NDX2    	   291	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    T	         ?	Q8NDX2    	   319	  I	  T	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    G	         ?	Q8NDX2    	   319	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    A	         ?	Q8NDX2    	   319	  I	  A	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    L	         ?	Q8NDX2    	   319	  I	  L	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   319	    I	    M	         ?	Q8NDX2    	   319	  I	  M	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    F	         ?	Q8NDX2    	   319	  I	  F	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    W	         ?	Q8NDX2    	   319	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    Q	         ?	Q8NDX2    	   319	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    K	         ?	Q8NDX2    	   319	  I	  K	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    E	         ?	Q8NDX2    	   319	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    S	         ?	Q8NDX2    	   319	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    P	         ?	Q8NDX2    	   319	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    V	         ?	Q8NDX2    	   319	  I	  V	 probably damaging	     0.996	    0.0222	     0.545
+Q8NDX2              	   319	    I	    C	         ?	Q8NDX2    	   319	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    Y	         ?	Q8NDX2    	   319	  I	  Y	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    H	         ?	Q8NDX2    	   319	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    R	         ?	Q8NDX2    	   319	  I	  R	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    N	         ?	Q8NDX2    	   319	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   319	    I	    D	         ?	Q8NDX2    	   319	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    T	         ?	Q8NDX2    	   320	  I	  T	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    G	         ?	Q8NDX2    	   320	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    A	         ?	Q8NDX2    	   320	  I	  A	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    L	         ?	Q8NDX2    	   320	  I	  L	 possibly damaging	     0.551	    0.0946	     0.879
+Q8NDX2              	   320	    I	    M	         ?	Q8NDX2    	   320	  I	  M	 probably damaging	     0.997	    0.0167	     0.409
+Q8NDX2              	   320	    I	    F	         ?	Q8NDX2    	   320	  I	  F	 possibly damaging	     0.851	    0.0673	     0.833
+Q8NDX2              	   320	    I	    W	         ?	Q8NDX2    	   320	  I	  W	 probably damaging	     0.988	    0.0353	     0.727
+Q8NDX2              	   320	    I	    Q	         ?	Q8NDX2    	   320	  I	  Q	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   320	    I	    K	         ?	Q8NDX2    	   320	  I	  K	 possibly damaging	     0.851	    0.0673	     0.833
+Q8NDX2              	   320	    I	    E	         ?	Q8NDX2    	   320	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    S	         ?	Q8NDX2    	   320	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    P	         ?	Q8NDX2    	   320	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    V	         ?	Q8NDX2    	   320	  I	  V	 possibly damaging	     0.642	    0.0885	     0.866
+Q8NDX2              	   320	    I	    C	         ?	Q8NDX2    	   320	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    Y	         ?	Q8NDX2    	   320	  I	  Y	 possibly damaging	     0.947	    0.0535	     0.794
+Q8NDX2              	   320	    I	    H	         ?	Q8NDX2    	   320	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    R	         ?	Q8NDX2    	   320	  I	  R	 probably damaging	     0.994	    0.0289	     0.689
+Q8NDX2              	   320	    I	    N	         ?	Q8NDX2    	   320	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   320	    I	    D	         ?	Q8NDX2    	   320	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   369	    I	    T	         ?	Q8NDX2    	   369	  I	  T	 possibly damaging	     0.927	    0.0581	     0.807
+Q8NDX2              	   369	    I	    G	         ?	Q8NDX2    	   369	  I	  G	 possibly damaging	     0.664	     0.086	     0.864
+Q8NDX2              	   369	    I	    A	         ?	Q8NDX2    	   369	  I	  A	 possibly damaging	     0.914	    0.0603	     0.813
+Q8NDX2              	   369	    I	    L	         ?	Q8NDX2    	   369	  I	  L	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	   369	    I	    M	         ?	Q8NDX2    	   369	  I	  M	 possibly damaging	     0.836	    0.0687	     0.836
+Q8NDX2              	   369	    I	    F	         ?	Q8NDX2    	   369	  I	  F	            benign	      0.04	     0.173	     0.944
+Q8NDX2              	   369	    I	    W	         ?	Q8NDX2    	   369	  I	  W	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   369	    I	    Q	         ?	Q8NDX2    	   369	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   369	    I	    K	         ?	Q8NDX2    	   369	  I	  K	 possibly damaging	     0.486	     0.098	     0.885
+Q8NDX2              	   369	    I	    E	         ?	Q8NDX2    	   369	  I	  E	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   369	    I	    S	         ?	Q8NDX2    	   369	  I	  S	 probably damaging	     0.977	    0.0424	     0.758
+Q8NDX2              	   369	    I	    P	         ?	Q8NDX2    	   369	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   369	    I	    V	         ?	Q8NDX2    	   369	  I	  V	            benign	     0.006	     0.253	     0.967
+Q8NDX2              	   369	    I	    C	         ?	Q8NDX2    	   369	  I	  C	            benign	     0.294	     0.114	     0.906
+Q8NDX2              	   369	    I	    Y	         ?	Q8NDX2    	   369	  I	  Y	            benign	     0.425	     0.103	     0.892
+Q8NDX2              	   369	    I	    H	         ?	Q8NDX2    	   369	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   369	    I	    R	         ?	Q8NDX2    	   369	  I	  R	 possibly damaging	     0.927	    0.0581	     0.807
+Q8NDX2              	   369	    I	    N	         ?	Q8NDX2    	   369	  I	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   369	    I	    D	         ?	Q8NDX2    	   369	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   467	    I	    T	         ?	Q8NDX2    	   467	  I	  T	 possibly damaging	     0.691	    0.0829	      0.86
+Q8NDX2              	   467	    I	    G	         ?	Q8NDX2    	   467	  I	  G	 probably damaging	     0.991	    0.0326	     0.711
+Q8NDX2              	   467	    I	    A	         ?	Q8NDX2    	   467	  I	  A	 possibly damaging	     0.642	    0.0885	     0.866
+Q8NDX2              	   467	    I	    L	         ?	Q8NDX2    	   467	  I	  L	            benign	     0.003	     0.556	     0.981
+Q8NDX2              	   467	    I	    M	         ?	Q8NDX2    	   467	  I	  M	 possibly damaging	     0.671	    0.0851	     0.863
+Q8NDX2              	   467	    I	    F	         ?	Q8NDX2    	   467	  I	  F	            benign	     0.017	     0.205	     0.954
+Q8NDX2              	   467	    I	    W	         ?	Q8NDX2    	   467	  I	  W	 probably damaging	     0.995	    0.0277	     0.681
+Q8NDX2              	   467	    I	    Q	         ?	Q8NDX2    	   467	  I	  Q	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   467	    I	    K	         ?	Q8NDX2    	   467	  I	  K	            benign	     0.275	     0.116	     0.908
+Q8NDX2              	   467	    I	    E	         ?	Q8NDX2    	   467	  I	  E	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   467	    I	    S	         ?	Q8NDX2    	   467	  I	  S	 probably damaging	     0.988	    0.0353	     0.727
+Q8NDX2              	   467	    I	    P	         ?	Q8NDX2    	   467	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   467	    I	    V	         ?	Q8NDX2    	   467	  I	  V	            benign	     0.001	     0.852	     0.994
+Q8NDX2              	   467	    I	    C	         ?	Q8NDX2    	   467	  I	  C	 possibly damaging	     0.835	    0.0687	     0.836
+Q8NDX2              	   467	    I	    Y	         ?	Q8NDX2    	   467	  I	  Y	            benign	     0.229	     0.121	     0.912
+Q8NDX2              	   467	    I	    H	         ?	Q8NDX2    	   467	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   467	    I	    R	         ?	Q8NDX2    	   467	  I	  R	 possibly damaging	     0.837	    0.0686	     0.836
+Q8NDX2              	   467	    I	    N	         ?	Q8NDX2    	   467	  I	  N	 probably damaging	     0.998	    0.0112	     0.273
+Q8NDX2              	   467	    I	    D	         ?	Q8NDX2    	   467	  I	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   417	    I	    T	         ?	Q8NDX2    	   417	  I	  T	 possibly damaging	     0.842	     0.068	     0.835
+Q8NDX2              	   417	    I	    G	         ?	Q8NDX2    	   417	  I	  G	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    A	         ?	Q8NDX2    	   417	  I	  A	 probably damaging	     0.999	   0.00574	     0.136
+Q8NDX2              	   417	    I	    L	         ?	Q8NDX2    	   417	  I	  L	            benign	     0.046	     0.169	     0.942
+Q8NDX2              	   417	    I	    M	         ?	Q8NDX2    	   417	  I	  M	 possibly damaging	     0.934	    0.0572	     0.803
+Q8NDX2              	   417	    I	    F	         ?	Q8NDX2    	   417	  I	  F	 probably damaging	     0.968	    0.0455	     0.772
+Q8NDX2              	   417	    I	    W	         ?	Q8NDX2    	   417	  I	  W	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    Q	         ?	Q8NDX2    	   417	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    K	         ?	Q8NDX2    	   417	  I	  K	 possibly damaging	     0.749	    0.0778	     0.853
+Q8NDX2              	   417	    I	    E	         ?	Q8NDX2    	   417	  I	  E	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    S	         ?	Q8NDX2    	   417	  I	  S	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    P	         ?	Q8NDX2    	   417	  I	  P	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    V	         ?	Q8NDX2    	   417	  I	  V	            benign	     0.064	     0.159	     0.937
+Q8NDX2              	   417	    I	    C	         ?	Q8NDX2    	   417	  I	  C	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    Y	         ?	Q8NDX2    	   417	  I	  Y	 probably damaging	     0.967	     0.046	     0.773
+Q8NDX2              	   417	    I	    H	         ?	Q8NDX2    	   417	  I	  H	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    R	         ?	Q8NDX2    	   417	  I	  R	 probably damaging	     0.988	    0.0353	     0.727
+Q8NDX2              	   417	    I	    N	         ?	Q8NDX2    	   417	  I	  N	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   417	    I	    D	         ?	Q8NDX2    	   417	  I	  D	 probably damaging	         1	   0.00026	   0.00018
+Q8NDX2              	   523	    I	    T	         ?	Q8NDX2    	   523	  I	  T	            benign	      0.04	     0.173	     0.944
+Q8NDX2              	   523	    I	    G	         ?	Q8NDX2    	   523	  I	  G	 possibly damaging	     0.781	    0.0747	     0.848
+Q8NDX2              	   523	    I	    A	         ?	Q8NDX2    	   523	  I	  A	            benign	     0.267	     0.117	     0.909
+Q8NDX2              	   523	    I	    L	         ?	Q8NDX2    	   523	  I	  L	            benign	     0.002	     0.704	     0.987
+Q8NDX2              	   523	    I	    M	         ?	Q8NDX2    	   523	  I	  M	            benign	     0.049	     0.167	     0.941
+Q8NDX2              	   523	    I	    F	         ?	Q8NDX2    	   523	  I	  F	 possibly damaging	     0.823	    0.0698	     0.839
+Q8NDX2              	   523	    I	    W	         ?	Q8NDX2    	   523	  I	  W	 probably damaging	     0.993	    0.0301	     0.696
+Q8NDX2              	   523	    I	    Q	         ?	Q8NDX2    	   523	  I	  Q	            benign	     0.267	     0.117	     0.909
+Q8NDX2              	   523	    I	    K	         ?	Q8NDX2    	   523	  I	  K	 possibly damaging	     0.638	    0.0888	     0.867
+Q8NDX2              	   523	    I	    E	         ?	Q8NDX2    	   523	  I	  E	 possibly damaging	     0.468	    0.0991	     0.887
+Q8NDX2              	   523	    I	    S	         ?	Q8NDX2    	   523	  I	  S	            benign	     0.399	     0.105	     0.895
+Q8NDX2              	   523	    I	    P	         ?	Q8NDX2    	   523	  I	  P	            benign	     0.005	      0.26	     0.968
+Q8NDX2              	   523	    I	    V	         ?	Q8NDX2    	   523	  I	  V	            benign	     0.007	     0.246	     0.965
+Q8NDX2              	   523	    I	    C	         ?	Q8NDX2    	   523	  I	  C	 probably damaging	     0.993	    0.0301	     0.696
+Q8NDX2              	   523	    I	    Y	         ?	Q8NDX2    	   523	  I	  Y	 probably damaging	     0.974	    0.0438	     0.763
+Q8NDX2              	   523	    I	    H	         ?	Q8NDX2    	   523	  I	  H	 probably damaging	     0.993	    0.0301	     0.696
+Q8NDX2              	   523	    I	    R	         ?	Q8NDX2    	   523	  I	  R	 possibly damaging	     0.861	    0.0665	      0.83
+Q8NDX2              	   523	    I	    N	         ?	Q8NDX2    	   523	  I	  N	 possibly damaging	     0.904	    0.0621	     0.816
+Q8NDX2              	   523	    I	    D	         ?	Q8NDX2    	   523	  I	  D	 possibly damaging	     0.926	    0.0582	     0.807
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)
