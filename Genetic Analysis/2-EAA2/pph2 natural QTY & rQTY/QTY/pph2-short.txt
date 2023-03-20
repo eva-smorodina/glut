@@ -1,0 +1,83 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+P43004              	    80	    I	    F	         ?	P43004    	    80	  F	  I	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   325	    I	    T	         ?	P43004    	   325	  I	  T	            benign	     0.033	     0.179	     0.946
+P43004              	   325	    I	    G	         ?	P43004    	   325	  I	  G	            benign	     0.004	     0.408	     0.975
+P43004              	   325	    I	    A	         ?	P43004    	   325	  I	  A	            benign	     0.006	     0.253	     0.967
+P43004              	   325	    I	    L	         ?	P43004    	   325	  I	  L	            benign	         0	         1	         1
+P43004              	   325	    I	    M	         ?	P43004    	   325	  I	  M	            benign	     0.033	     0.179	     0.946
+P43004              	   325	    I	    F	         ?	P43004    	   325	  I	  F	            benign	     0.005	      0.26	     0.968
+P43004              	   325	    I	    W	         ?	P43004    	   325	  I	  W	 probably damaging	     0.989	    0.0346	     0.723
+P43004              	   325	    I	    Q	         ?	P43004    	   325	  I	  Q	 probably damaging	     0.961	     0.048	      0.78
+P43004              	   325	    I	    K	         ?	P43004    	   325	  I	  K	 possibly damaging	     0.699	    0.0824	     0.859
+P43004              	   325	    I	    E	         ?	P43004    	   325	  I	  E	 possibly damaging	     0.699	    0.0824	     0.859
+P43004              	   325	    I	    S	         ?	P43004    	   325	  I	  S	            benign	     0.263	     0.117	      0.91
+P43004              	   325	    I	    P	         ?	P43004    	   325	  I	  P	 probably damaging	     0.961	     0.048	      0.78
+P43004              	   325	    I	    V	         ?	P43004    	   325	  I	  V	            benign	         0	         1	         1
+P43004              	   325	    I	    C	         ?	P43004    	   325	  I	  C	 possibly damaging	     0.891	    0.0637	     0.821
+P43004              	   325	    I	    Y	         ?	P43004    	   325	  I	  Y	 possibly damaging	     0.534	    0.0952	     0.881
+P43004              	   325	    I	    H	         ?	P43004    	   325	  I	  H	 probably damaging	     0.961	     0.048	      0.78
+P43004              	   325	    I	    R	         ?	P43004    	   325	  I	  R	 possibly damaging	     0.891	    0.0637	     0.821
+P43004              	   325	    I	    N	         ?	P43004    	   325	  I	  N	 possibly damaging	      0.86	    0.0666	     0.831
+P43004              	   325	    I	    D	         ?	P43004    	   325	  I	  D	 possibly damaging	     0.699	    0.0824	     0.859
+P43004              	   504	    I	    T	         ?	P43004    	   504	  I	  T	            benign	     0.049	     0.167	     0.941
+P43004              	   504	    I	    G	         ?	P43004    	   504	  I	  G	            benign	     0.064	     0.159	     0.937
+P43004              	   504	    I	    A	         ?	P43004    	   504	  I	  A	            benign	         0	         1	         1
+P43004              	   504	    I	    L	         ?	P43004    	   504	  I	  L	            benign	         0	         1	         1
+P43004              	   504	    I	    M	         ?	P43004    	   504	  I	  M	            benign	     0.005	      0.26	     0.968
+P43004              	   504	    I	    F	         ?	P43004    	   504	  I	  F	            benign	         0	         1	         1
+P43004              	   504	    I	    W	         ?	P43004    	   504	  I	  W	 possibly damaging	     0.931	    0.0577	     0.805
+P43004              	   504	    I	    Q	         ?	P43004    	   504	  I	  Q	            benign	     0.006	     0.253	     0.967
+P43004              	   504	    I	    K	         ?	P43004    	   504	  I	  K	            benign	     0.006	     0.253	     0.967
+P43004              	   504	    I	    E	         ?	P43004    	   504	  I	  E	            benign	     0.003	     0.556	     0.981
+P43004              	   504	    I	    S	         ?	P43004    	   504	  I	  S	            benign	     0.005	      0.26	     0.968
+P43004              	   504	    I	    P	         ?	P43004    	   504	  I	  P	 possibly damaging	     0.507	    0.0964	     0.883
+P43004              	   504	    I	    V	         ?	P43004    	   504	  I	  V	            benign	     0.011	     0.222	     0.959
+P43004              	   504	    I	    C	         ?	P43004    	   504	  I	  C	 possibly damaging	     0.783	    0.0745	     0.848
+P43004              	   504	    I	    Y	         ?	P43004    	   504	  I	  Y	            benign	     0.077	     0.154	     0.933
+P43004              	   504	    I	    H	         ?	P43004    	   504	  I	  H	            benign	     0.005	      0.26	     0.968
+P43004              	   504	    I	    R	         ?	P43004    	   504	  I	  R	            benign	     0.077	     0.154	     0.933
+P43004              	   504	    I	    N	         ?	P43004    	   504	  I	  N	            benign	     0.112	     0.142	     0.927
+P43004              	   504	    I	    D	         ?	P43004    	   504	  I	  D	            benign	     0.002	     0.704	     0.987
+P43004              	   514	    I	    T	         ?	P43004    	   514	  I	  T	 possibly damaging	     0.531	    0.0953	     0.881
+P43004              	   514	    I	    G	         ?	P43004    	   514	  I	  G	            benign	     0.001	     0.852	     0.994
+P43004              	   514	    I	    A	         ?	P43004    	   514	  I	  A	            benign	     0.029	     0.183	     0.948
+P43004              	   514	    I	    L	         ?	P43004    	   514	  I	  L	            benign	     0.109	     0.143	     0.928
+P43004              	   514	    I	    M	         ?	P43004    	   514	  I	  M	 possibly damaging	     0.906	    0.0617	     0.816
+P43004              	   514	    I	    F	         ?	P43004    	   514	  I	  F	            benign	     0.002	     0.704	     0.987
+P43004              	   514	    I	    W	         ?	P43004    	   514	  I	  W	 probably damaging	     0.993	    0.0301	     0.696
+P43004              	   514	    I	    Q	         ?	P43004    	   514	  I	  Q	 possibly damaging	     0.784	    0.0745	     0.847
+P43004              	   514	    I	    K	         ?	P43004    	   514	  I	  K	            benign	     0.425	     0.103	     0.892
+P43004              	   514	    I	    E	         ?	P43004    	   514	  I	  E	            benign	     0.029	     0.183	     0.948
+P43004              	   514	    I	    S	         ?	P43004    	   514	  I	  S	            benign	     0.358	     0.109	     0.898
+P43004              	   514	    I	    P	         ?	P43004    	   514	  I	  P	 possibly damaging	     0.917	    0.0597	     0.812
+P43004              	   514	    I	    V	         ?	P43004    	   514	  I	  V	            benign	     0.022	     0.195	     0.951
+P43004              	   514	    I	    C	         ?	P43004    	   514	  I	  C	 probably damaging	     0.975	    0.0436	     0.762
+P43004              	   514	    I	    Y	         ?	P43004    	   514	  I	  Y	 possibly damaging	     0.473	    0.0988	     0.887
+P43004              	   514	    I	    H	         ?	P43004    	   514	  I	  H	            benign	     0.053	     0.164	      0.94
+P43004              	   514	    I	    R	         ?	P43004    	   514	  I	  R	 possibly damaging	     0.784	    0.0745	     0.847
+P43004              	   514	    I	    N	         ?	P43004    	   514	  I	  N	 possibly damaging	     0.575	    0.0937	     0.876
+P43004              	   514	    I	    D	         ?	P43004    	   514	  I	  D	            benign	     0.001	     0.852	     0.994
+P43004              	   522	    I	    T	         ?	P43004    	   522	  I	  T	            benign	     0.231	     0.121	     0.912
+P43004              	   522	    I	    G	         ?	P43004    	   522	  I	  G	            benign	         0	         1	         1
+P43004              	   522	    I	    A	         ?	P43004    	   522	  I	  A	            benign	     0.005	      0.26	     0.968
+P43004              	   522	    I	    L	         ?	P43004    	   522	  I	  L	            benign	     0.004	     0.408	     0.975
+P43004              	   522	    I	    M	         ?	P43004    	   522	  I	  M	 possibly damaging	     0.718	    0.0806	     0.857
+P43004              	   522	    I	    F	         ?	P43004    	   522	  I	  F	            benign	     0.002	     0.704	     0.987
+P43004              	   522	    I	    W	         ?	P43004    	   522	  I	  W	 probably damaging	     0.963	    0.0475	     0.778
+P43004              	   522	    I	    Q	         ?	P43004    	   522	  I	  Q	 possibly damaging	     0.491	    0.0977	     0.885
+P43004              	   522	    I	    K	         ?	P43004    	   522	  I	  K	            benign	     0.013	     0.216	     0.957
+P43004              	   522	    I	    E	         ?	P43004    	   522	  I	  E	            benign	     0.166	     0.131	      0.92
+P43004              	   522	    I	    S	         ?	P43004    	   522	  I	  S	            benign	     0.012	     0.219	     0.958
+P43004              	   522	    I	    P	         ?	P43004    	   522	  I	  P	 possibly damaging	     0.662	    0.0862	     0.864
+P43004              	   522	    I	    V	         ?	P43004    	   522	  I	  V	            benign	     0.001	     0.852	     0.994
+P43004              	   522	    I	    C	         ?	P43004    	   522	  I	  C	 possibly damaging	     0.954	     0.051	     0.787
+P43004              	   522	    I	    Y	         ?	P43004    	   522	  I	  Y	            benign	     0.001	     0.852	     0.994
+P43004              	   522	    I	    H	         ?	P43004    	   522	  I	  H	 possibly damaging	     0.772	    0.0757	     0.849
+P43004              	   522	    I	    R	         ?	P43004    	   522	  I	  R	            benign	     0.326	     0.111	     0.902
+P43004              	   522	    I	    N	         ?	P43004    	   522	  I	  N	            benign	     0.001	     0.852	     0.994
+P43004              	   522	    I	    D	         ?	P43004    	   522	  I	  D	            benign	     0.166	     0.131	      0.92
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

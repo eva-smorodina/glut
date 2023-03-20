@@ -1,0 +1,101 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(P43004:80:I/T)          ERROR: Neither AA1 (I) nor AA2 (T) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/G)          ERROR: Neither AA1 (I) nor AA2 (G) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/A)          ERROR: Neither AA1 (I) nor AA2 (A) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/L)          ERROR: Neither AA1 (I) nor AA2 (L) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/M)          ERROR: Neither AA1 (I) nor AA2 (M) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/F)          WARNING: Swapped input residues AA1 (I) and AA2 (F) for P43004 query sequence at position (80)
+(P43004:80:I/W)          ERROR: Neither AA1 (I) nor AA2 (W) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/Q)          ERROR: Neither AA1 (I) nor AA2 (Q) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/K)          ERROR: Neither AA1 (I) nor AA2 (K) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/E)          ERROR: Neither AA1 (I) nor AA2 (E) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/S)          ERROR: Neither AA1 (I) nor AA2 (S) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/P)          ERROR: Neither AA1 (I) nor AA2 (P) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/V)          ERROR: Neither AA1 (I) nor AA2 (V) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/C)          ERROR: Neither AA1 (I) nor AA2 (C) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/Y)          ERROR: Neither AA1 (I) nor AA2 (Y) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/H)          ERROR: Neither AA1 (I) nor AA2 (H) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/R)          ERROR: Neither AA1 (I) nor AA2 (R) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/N)          ERROR: Neither AA1 (I) nor AA2 (N) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:80:I/D)          ERROR: Neither AA1 (I) nor AA2 (D) in input matches P43004 query sequence residue (F) at position (80)
+(P43004:325:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>G
+(P43004:325:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>A
+(P43004:325:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>W
+(P43004:325:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Q
+(P43004:325:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>K
+(P43004:325:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>E
+(P43004:325:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>P
+(P43004:325:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>C
+(P43004:325:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Y
+(P43004:325:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>H
+(P43004:325:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>R
+(P43004:325:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>D
+(P43004:504:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
+(P43004:504:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
+(P43004:504:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
+(P43004:504:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
+(P43004:504:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
+(P43004:504:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
+(P43004:504:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
+(P43004:504:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
+(P43004:504:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
+(P43004:504:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
+(P43004:504:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
+(P43004:504:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
+(P43004:514:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
+(P43004:514:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
+(P43004:514:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
+(P43004:514:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
+(P43004:514:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
+(P43004:514:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
+(P43004:514:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
+(P43004:514:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
+(P43004:514:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
+(P43004:514:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
+(P43004:514:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
+(P43004:514:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
+(P43004:522:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
+(P43004:522:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
+(P43004:522:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
+(P43004:522:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
+(P43004:522:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
+(P43004:522:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
+(P43004:522:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
+(P43004:522:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
+(P43004:522:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
+(P43004:522:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
+(P43004:522:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
+(P43004:522:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
+Total errors/warnings: 67
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors

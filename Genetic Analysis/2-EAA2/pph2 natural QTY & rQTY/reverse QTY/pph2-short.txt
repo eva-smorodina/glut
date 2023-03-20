@@ -1,0 +1,44 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+P43004              	   433	    T	    I	         ?	P43004    	   433	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    G	         ?	P43004    	   433	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    A	         ?	P43004    	   433	  T	  A	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    L	         ?	P43004    	   433	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    M	         ?	P43004    	   433	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    F	         ?	P43004    	   433	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    W	         ?	P43004    	   433	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    Q	         ?	P43004    	   433	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    K	         ?	P43004    	   433	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    E	         ?	P43004    	   433	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    S	         ?	P43004    	   433	  T	  S	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    P	         ?	P43004    	   433	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    V	         ?	P43004    	   433	  T	  V	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    C	         ?	P43004    	   433	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    Y	         ?	P43004    	   433	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    H	         ?	P43004    	   433	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    R	         ?	P43004    	   433	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    N	         ?	P43004    	   433	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   433	    T	    D	         ?	P43004    	   433	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+P43004              	   152	    Q	    L	         ?	P43004    	   152	  Q	  L	            benign	      0.02	     0.198	     0.952
+P43004              	   152	    Q	    G	         ?	P43004    	   152	  Q	  G	            benign	         0	         1	         1
+P43004              	   152	    Q	    A	         ?	P43004    	   152	  Q	  A	            benign	     0.005	      0.26	     0.968
+P43004              	   152	    Q	    I	         ?	P43004    	   152	  Q	  I	            benign	     0.012	     0.219	     0.958
+P43004              	   152	    Q	    M	         ?	P43004    	   152	  Q	  M	            benign	     0.026	     0.188	     0.949
+P43004              	   152	    Q	    F	         ?	P43004    	   152	  Q	  F	            benign	     0.377	     0.107	     0.897
+P43004              	   152	    Q	    W	         ?	P43004    	   152	  Q	  W	 probably damaging	     0.961	     0.048	      0.78
+P43004              	   152	    Q	    T	         ?	P43004    	   152	  Q	  T	            benign	     0.005	      0.26	     0.968
+P43004              	   152	    Q	    K	         ?	P43004    	   152	  Q	  K	            benign	         0	         1	         1
+P43004              	   152	    Q	    E	         ?	P43004    	   152	  Q	  E	            benign	         0	         1	         1
+P43004              	   152	    Q	    S	         ?	P43004    	   152	  Q	  S	            benign	     0.002	     0.704	     0.987
+P43004              	   152	    Q	    P	         ?	P43004    	   152	  Q	  P	            benign	     0.365	     0.108	     0.898
+P43004              	   152	    Q	    V	         ?	P43004    	   152	  Q	  V	            benign	     0.005	      0.26	     0.968
+P43004              	   152	    Q	    C	         ?	P43004    	   152	  Q	  C	 possibly damaging	     0.866	    0.0661	     0.829
+P43004              	   152	    Q	    Y	         ?	P43004    	   152	  Q	  Y	            benign	     0.377	     0.107	     0.897
+P43004              	   152	    Q	    H	         ?	P43004    	   152	  Q	  H	            benign	     0.009	     0.233	     0.961
+P43004              	   152	    Q	    R	         ?	P43004    	   152	  Q	  R	            benign	     0.003	     0.556	     0.981
+P43004              	   152	    Q	    N	         ?	P43004    	   152	  Q	  N	            benign	         0	         1	         1
+P43004              	   152	    Q	    D	         ?	P43004    	   152	  Q	  D	            benign	         0	         1	         1
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)
