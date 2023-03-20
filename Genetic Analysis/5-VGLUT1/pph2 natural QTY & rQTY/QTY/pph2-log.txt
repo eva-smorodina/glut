@@ -1,0 +1,114 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(P48664:141:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>G
+(P48664:141:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>A
+(P48664:141:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>W
+(P48664:141:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Q
+(P48664:141:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>K
+(P48664:141:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>E
+(P48664:141:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>P
+(P48664:141:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>C
+(P48664:141:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Y
+(P48664:141:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>H
+(P48664:141:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>R
+(P48664:141:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>D
+(P48664:152:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>G
+(P48664:152:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>A
+(P48664:152:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>W
+(P48664:152:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Q
+(P48664:152:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>K
+(P48664:152:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>E
+(P48664:152:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>P
+(P48664:152:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>C
+(P48664:152:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>Y
+(P48664:152:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>H
+(P48664:152:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>R
+(P48664:152:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATC)>D
+(P48664:282:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
+(P48664:282:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
+(P48664:282:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
+(P48664:282:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
+(P48664:282:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
+(P48664:282:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
+(P48664:282:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
+(P48664:282:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
+(P48664:282:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
+(P48664:282:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
+(P48664:282:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
+(P48664:282:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
+(P48664:374:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
+(P48664:374:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
+(P48664:374:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
+(P48664:374:I/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
+(P48664:374:I/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
+(P48664:374:I/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
+(P48664:374:I/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
+(P48664:374:I/C)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
+(P48664:374:I/Y)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
+(P48664:374:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
+(P48664:374:I/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
+(P48664:374:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
+(P48664:3:I/T)           ERROR: Neither AA1 (I) nor AA2 (T) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/G)           ERROR: Neither AA1 (I) nor AA2 (G) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/A)           ERROR: Neither AA1 (I) nor AA2 (A) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/L)           ERROR: Neither AA1 (I) nor AA2 (L) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/M)           ERROR: Neither AA1 (I) nor AA2 (M) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/F)           ERROR: Neither AA1 (I) nor AA2 (F) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/W)           ERROR: Neither AA1 (I) nor AA2 (W) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/Q)           ERROR: Neither AA1 (I) nor AA2 (Q) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/K)           ERROR: Neither AA1 (I) nor AA2 (K) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/E)           ERROR: Neither AA1 (I) nor AA2 (E) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/S)           WARNING: Swapped input residues AA1 (I) and AA2 (S) for P48664 query sequence at position (3)
+(P48664:3:I/P)           ERROR: Neither AA1 (I) nor AA2 (P) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/V)           ERROR: Neither AA1 (I) nor AA2 (V) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/C)           ERROR: Neither AA1 (I) nor AA2 (C) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/Y)           ERROR: Neither AA1 (I) nor AA2 (Y) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/H)           ERROR: Neither AA1 (I) nor AA2 (H) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/R)           ERROR: Neither AA1 (I) nor AA2 (R) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/N)           ERROR: Neither AA1 (I) nor AA2 (N) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:3:I/D)           ERROR: Neither AA1 (I) nor AA2 (D) in input matches P48664 query sequence residue (S) at position (3)
+(P48664:351:F/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>G
+(P48664:351:F/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>A
+(P48664:351:F/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>M
+(P48664:351:F/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>W
+(P48664:351:F/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>Q
+(P48664:351:F/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>K
+(P48664:351:F/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>E
+(P48664:351:F/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>P
+(P48664:351:F/T)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>T
+(P48664:351:F/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>H
+(P48664:351:F/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>R
+(P48664:351:F/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>N
+(P48664:351:F/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTC)>D
+Total errors/warnings: 80
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors
