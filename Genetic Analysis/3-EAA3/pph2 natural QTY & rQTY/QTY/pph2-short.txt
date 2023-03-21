@@ -132,25 +132,6 @@ P43005              	   304	    I	    H	         ?	P43005    	   304	  I	  H	 pr
 P43005              	   304	    I	    R	         ?	P43005    	   304	  I	  R	 possibly damaging	     0.915	    0.0601	     0.813
 P43005              	   304	    I	    N	         ?	P43005    	   304	  I	  N	 probably damaging	         1	   0.00026	   0.00018
 P43005              	   304	    I	    D	         ?	P43005    	   304	  I	  D	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    T	         ?	P43005    	    67	  I	  T	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    G	         ?	P43005    	    67	  I	  G	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    A	         ?	P43005    	    67	  I	  A	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    L	         ?	P43005    	    67	  I	  L	 possibly damaging	     0.953	    0.0514	     0.788
-P43005              	    67	    I	    M	         ?	P43005    	    67	  I	  M	 probably damaging	     0.999	   0.00574	     0.136
-P43005              	    67	    I	    F	         ?	P43005    	    67	  I	  F	 probably damaging	     0.997	    0.0167	     0.409
-P43005              	    67	    I	    W	         ?	P43005    	    67	  I	  W	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    Q	         ?	P43005    	    67	  I	  Q	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    K	         ?	P43005    	    67	  I	  K	 probably damaging	     0.996	    0.0222	     0.545
-P43005              	    67	    I	    E	         ?	P43005    	    67	  I	  E	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    S	         ?	P43005    	    67	  I	  S	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    P	         ?	P43005    	    67	  I	  P	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    V	         ?	P43005    	    67	  I	  V	            benign	     0.152	     0.134	     0.921
-P43005              	    67	    I	    C	         ?	P43005    	    67	  I	  C	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    Y	         ?	P43005    	    67	  I	  Y	 probably damaging	     0.998	    0.0112	     0.273
-P43005              	    67	    I	    H	         ?	P43005    	    67	  I	  H	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    R	         ?	P43005    	    67	  I	  R	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    N	         ?	P43005    	    67	  I	  N	 probably damaging	         1	   0.00026	   0.00018
-P43005              	    67	    I	    D	         ?	P43005    	    67	  I	  D	 probably damaging	         1	   0.00026	   0.00018
 P43005              	   298	    I	    T	         ?	P43005    	   298	  I	  T	            benign	     0.026	     0.188	     0.949
 P43005              	   298	    I	    G	         ?	P43005    	   298	  I	  G	            benign	     0.104	     0.144	     0.928
 P43005              	   298	    I	    A	         ?	P43005    	   298	  I	  A	            benign	     0.173	      0.13	     0.919

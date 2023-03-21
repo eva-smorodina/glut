@@ -103,18 +103,6 @@ Stage 4/7: Building MSA and annotating proteins
 (P43005:304:I/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATA)>H
 (P43005:304:I/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATA)>N
 (P43005:304:I/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATA)>D
-(P43005:67:I/G)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
-(P43005:67:I/A)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
-(P43005:67:I/W)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
-(P43005:67:I/Q)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Q
-(P43005:67:I/K)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>K
-(P43005:67:I/E)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>E
-(P43005:67:I/P)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>P
-(P43005:67:I/C)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>C
-(P43005:67:I/Y)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>Y
-(P43005:67:I/H)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>H
-(P43005:67:I/R)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>R
-(P43005:67:I/D)          ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>D
 (P43005:298:I/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>G
 (P43005:298:I/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>A
 (P43005:298:I/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: I(ATT)>W
@@ -218,7 +206,7 @@ Stage 4/7: Building MSA and annotating proteins
 (P43005:443:L/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: L(CTG)>H
 (P43005:443:L/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: L(CTG)>N
 (P43005:443:L/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: L(CTG)>D
-Total errors/warnings: 202
+Total errors/warnings: 190
 
 ============================
 Stage 5/7: Collecting output
